@@ -45,6 +45,7 @@
     },
     "data": [
   {
+    "index": "0",
     "area": "CAL",
     "fornitore": "Pfizer/BioNTech",
     "numero_dosi": 280,
@@ -55,6 +56,7 @@
     "nome_area": "Calabria"
   },
   {
+    "index": "1",
     "area": "CAL",
     "fornitore": "Pfizer/BioNTech",
     "numero_dosi": 12675,
@@ -65,6 +67,7 @@
     "nome_area": "Calabria"
   },
   {
+    "index": "2",
     "area": "CAL",
     "fornitore": "Pfizer/BioNTech",
     "numero_dosi": 10725,
@@ -75,6 +78,7 @@
     "nome_area": "Calabria"
   },
   {
+    "index": "3",
     "area": "CAL",
     "fornitore": "Pfizer/BioNTech",
     "numero_dosi": 1950,
@@ -85,6 +89,7 @@
     "nome_area": "Calabria"
   },
   {
+    "index": "4",
     "area": "CAL",
     "fornitore": "Pfizer/BioNTech",
     "numero_dosi": 13650,
@@ -95,6 +100,7 @@
     "nome_area": "Calabria"
   },
   {
+    "index": "5",
     "area": "CAL",
     "fornitore": "Pfizer/BioNTech",
     "numero_dosi": 8190,
@@ -105,6 +111,7 @@
     "nome_area": "Calabria"
   },
   {
+    "index": "6",
     "area": "CAL",
     "fornitore": "Pfizer/BioNTech",
     "numero_dosi": 1170,
@@ -115,6 +122,7 @@
     "nome_area": "Calabria"
   },
   {
+    "index": "7",
     "area": "CAL",
     "fornitore": "Pfizer/BioNTech",
     "numero_dosi": 1170,
@@ -125,6 +133,7 @@
     "nome_area": "Calabria"
   },
   {
+    "index": "8",
     "area": "CAL",
     "fornitore": "Pfizer/BioNTech",
     "numero_dosi": 12870,
@@ -135,6 +144,7 @@
     "nome_area": "Calabria"
   },
   {
+    "index": "9",
     "area": "CAL",
     "fornitore": "Moderna",
     "numero_dosi": 2100,
@@ -145,6 +155,7 @@
     "nome_area": "Calabria"
   },
   {
+    "index": "10",
     "area": "CAL",
     "fornitore": "Pfizer/BioNTech",
     "numero_dosi": 15210,
@@ -155,6 +166,7 @@
     "nome_area": "Calabria"
   },
   {
+    "index": "11",
     "area": "CAL",
     "fornitore": "AstraZeneca",
     "numero_dosi": 8000,
@@ -165,6 +177,7 @@
     "nome_area": "Calabria"
   },
   {
+    "index": "12",
     "area": "CAL",
     "fornitore": "Pfizer/BioNTech",
     "numero_dosi": 16380,
@@ -175,6 +188,7 @@
     "nome_area": "Calabria"
   },
   {
+    "index": "13",
     "area": "CAL",
     "fornitore": "AstraZeneca",
     "numero_dosi": 9300,
@@ -185,6 +199,7 @@
     "nome_area": "Calabria"
   },
   {
+    "index": "14",
     "area": "CAL",
     "fornitore": "Moderna",
     "numero_dosi": 3900,
@@ -195,6 +210,7 @@
     "nome_area": "Calabria"
   },
   {
+    "index": "15",
     "area": "CAL",
     "fornitore": "Pfizer/BioNTech",
     "numero_dosi": 18720,
@@ -205,6 +221,7 @@
     "nome_area": "Calabria"
   },
   {
+    "index": "16",
     "area": "CAL",
     "fornitore": "AstraZeneca",
     "numero_dosi": 16100,
