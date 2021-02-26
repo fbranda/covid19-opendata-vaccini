@@ -1,0 +1,5 @@
+.country:hover {
+  fill: #E31F83;
+  cursor: pointer;
+}
+
