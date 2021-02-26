@@ -1,0 +1,115 @@
+{
+    "schema":{
+        "fields":[
+            {
+                "name":"index",
+                "type":"integer"
+            },
+            {
+                "name":"area",
+                "type":"string"
+            },
+            {
+                "name":"provincia",
+                "type":"string"
+            },
+            {
+                "name":"comune",
+                "type":"string"
+            },
+            {
+                "name":"presidio_ospedaliero",
+                "type":"string"
+            },
+            {
+                "name":"codice_NUTS1",
+                "type":"string"
+            },
+            {
+                "name":"codice_NUTS2",
+                "type":"string"
+            },
+            {
+                "name":"codice_regione_ISTAT",
+                "type":"integer"
+            },
+            {
+                "name":"nome_area",
+                "type":"string"
+            }
+        ],
+        "primaryKey":[
+            "index"
+        ],
+        "pandas_version":"0.20.0"
+    },
+    "data":[
+        
+        {
+            "index":12,
+            "area":"CAL",
+            "provincia":"CATANZARO",
+            "comune":"CATANZARO",
+            "presidio_ospedaliero":"MATER DOMINI",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF6",
+            "codice_regione_ISTAT":18,
+            "nome_area":"Calabria"
+        },
+        {
+            "index":13,
+            "area":"CAL",
+            "provincia":"CATANZARO",
+            "comune":"CATANZARO",
+            "presidio_ospedaliero":"PUGLIESE -CIACCIO",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF6",
+            "codice_regione_ISTAT":18,
+            "nome_area":"Calabria"
+        },
+        {
+            "index":14,
+            "area":"CAL",
+            "provincia":"COSENZA",
+            "comune":"COSENZA",
+            "presidio_ospedaliero":"AO COSENZA\u00a0 - AZIENDA OSPEDALIERA DI COSENZA \"SS. ANNUNZIATA\"",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF6",
+            "codice_regione_ISTAT":18,
+            "nome_area":"Calabria"
+        },
+        {
+            "index":15,
+            "area":"CAL",
+            "provincia":"CROTONE",
+            "comune":"CROTONE",
+            "presidio_ospedaliero":"OSPEDALE SPOKE CROTONE",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF6",
+            "codice_regione_ISTAT":18,
+            "nome_area":"Calabria"
+        },
+        {
+            "index":16,
+            "area":"CAL",
+            "provincia":"REGGIO CALABRIA",
+            "comune":"REGGIO CALABRIA",
+            "presidio_ospedaliero":"GOM",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF6",
+            "codice_regione_ISTAT":18,
+            "nome_area":"Calabria"
+        },
+        {
+            "index":17,
+            "area":"CAL",
+            "provincia":"VIBO VALENTIA",
+            "comune":"VIBO VALENTIA",
+            "presidio_ospedaliero":"OSPEDALE SPOKE VIBO VALENTIA",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF6",
+            "codice_regione_ISTAT":18,
+            "nome_area":"Calabria"
+        }
+    ]
+}
