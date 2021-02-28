@@ -258,6 +258,26 @@
   },
   {
     "index": 10,
+    "data_somministrazione": "28/02/21",
+    "area": "CAL",
+    "totale": 1644,
+    "sesso_maschile": 766,
+    "sesso_femminile": 878,
+    "categoria_operatori_sanitari_sociosanitari": 69,
+    "categoria_personale_non_sanitario": 99,
+    "categoria_ospiti_rsa": 157,
+    "categoria_over80": 1314,
+    "categoria_forze_armate": 5,
+    "categoria_personale_scolastico": 0,
+    "prima_dose": 1574,
+    "seconda_dose": 70,
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
+  },
+  {
+    "index": 11,
     "data_somministrazione": "21/01/21",
     "area": "CAL",
     "totale": 958,
@@ -277,7 +297,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 11,
+    "index": 12,
     "data_somministrazione": "09/02/21",
     "area": "CAL",
     "totale": 2146,
@@ -297,7 +317,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 12,
+    "index": 13,
     "data_somministrazione": "09/01/21",
     "area": "CAL",
     "totale": 1916,
@@ -317,7 +337,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 13,
+    "index": 14,
     "data_somministrazione": "04/02/21",
     "area": "CAL",
     "totale": 3391,
@@ -337,7 +357,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 14,
+    "index": 15,
     "data_somministrazione": "06/02/21",
     "area": "CAL",
     "totale": 2908,
@@ -357,7 +377,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 15,
+    "index": 16,
     "data_somministrazione": "05/02/21",
     "area": "CAL",
     "totale": 3795,
@@ -377,7 +397,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 16,
+    "index": 17,
     "data_somministrazione": "17/01/21",
     "area": "CAL",
     "totale": 867,
@@ -397,7 +417,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 17,
+    "index": 18,
     "data_somministrazione": "27/02/21",
     "area": "CAL",
     "totale": 3673,
@@ -417,7 +437,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 18,
+    "index": 19,
     "data_somministrazione": "31/01/21",
     "area": "CAL",
     "totale": 1107,
@@ -437,7 +457,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 19,
+    "index": 20,
     "data_somministrazione": "12/02/21",
     "area": "CAL",
     "totale": 1711,
@@ -451,26 +471,6 @@
     "categoria_personale_scolastico": 0,
     "prima_dose": 943,
     "seconda_dose": 768,
-    "codice_NUTS1": "ITF",
-    "codice_NUTS2": "ITF6",
-    "codice_regione_ISTAT": 18,
-    "nome_area": "Calabria"
-  },
-  {
-    "index": 20,
-    "data_somministrazione": "13/02/21",
-    "area": "CAL",
-    "totale": 1330,
-    "sesso_maschile": 582,
-    "sesso_femminile": 748,
-    "categoria_operatori_sanitari_sociosanitari": 731,
-    "categoria_personale_non_sanitario": 488,
-    "categoria_ospiti_rsa": 111,
-    "categoria_over80": 0,
-    "categoria_forze_armate": 0,
-    "categoria_personale_scolastico": 0,
-    "prima_dose": 967,
-    "seconda_dose": 363,
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
@@ -498,6 +498,26 @@
   },
   {
     "index": 22,
+    "data_somministrazione": "13/02/21",
+    "area": "CAL",
+    "totale": 1330,
+    "sesso_maschile": 582,
+    "sesso_femminile": 748,
+    "categoria_operatori_sanitari_sociosanitari": 731,
+    "categoria_personale_non_sanitario": 488,
+    "categoria_ospiti_rsa": 111,
+    "categoria_over80": 0,
+    "categoria_forze_armate": 0,
+    "categoria_personale_scolastico": 0,
+    "prima_dose": 967,
+    "seconda_dose": 363,
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
+  },
+  {
+    "index": 23,
     "data_somministrazione": "25/01/21",
     "area": "CAL",
     "totale": 1064,
@@ -517,7 +537,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 23,
+    "index": 24,
     "data_somministrazione": "19/02/21",
     "area": "CAL",
     "totale": 1461,
@@ -537,7 +557,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 24,
+    "index": 25,
     "data_somministrazione": "11/01/21",
     "area": "CAL",
     "totale": 2154,
@@ -557,7 +577,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 25,
+    "index": 26,
     "data_somministrazione": "04/01/21",
     "area": "CAL",
     "totale": 996,
@@ -570,26 +590,6 @@
     "categoria_forze_armate": 0,
     "categoria_personale_scolastico": 0,
     "prima_dose": 996,
-    "seconda_dose": 0,
-    "codice_NUTS1": "ITF",
-    "codice_NUTS2": "ITF6",
-    "codice_regione_ISTAT": 18,
-    "nome_area": "Calabria"
-  },
-  {
-    "index": 26,
-    "data_somministrazione": "14/01/21",
-    "area": "CAL",
-    "totale": 2557,
-    "sesso_maschile": 1214,
-    "sesso_femminile": 1343,
-    "categoria_operatori_sanitari_sociosanitari": 1962,
-    "categoria_personale_non_sanitario": 592,
-    "categoria_ospiti_rsa": 3,
-    "categoria_over80": 0,
-    "categoria_forze_armate": 0,
-    "categoria_personale_scolastico": 0,
-    "prima_dose": 2557,
     "seconda_dose": 0,
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -618,6 +618,26 @@
   },
   {
     "index": 28,
+    "data_somministrazione": "14/01/21",
+    "area": "CAL",
+    "totale": 2557,
+    "sesso_maschile": 1214,
+    "sesso_femminile": 1343,
+    "categoria_operatori_sanitari_sociosanitari": 1962,
+    "categoria_personale_non_sanitario": 592,
+    "categoria_ospiti_rsa": 3,
+    "categoria_over80": 0,
+    "categoria_forze_armate": 0,
+    "categoria_personale_scolastico": 0,
+    "prima_dose": 2557,
+    "seconda_dose": 0,
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
+  },
+  {
+    "index": 29,
     "data_somministrazione": "15/02/21",
     "area": "CAL",
     "totale": 1137,
@@ -637,7 +657,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 29,
+    "index": 30,
     "data_somministrazione": "03/02/21",
     "area": "CAL",
     "totale": 2763,
@@ -657,7 +677,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 30,
+    "index": 31,
     "data_somministrazione": "13/01/21",
     "area": "CAL",
     "totale": 2028,
@@ -677,19 +697,19 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 31,
+    "index": 32,
     "data_somministrazione": "07/02/21",
     "area": "CAL",
-    "totale": 858,
-    "sesso_maschile": 427,
+    "totale": 859,
+    "sesso_maschile": 428,
     "sesso_femminile": 431,
-    "categoria_operatori_sanitari_sociosanitari": 565,
+    "categoria_operatori_sanitari_sociosanitari": 566,
     "categoria_personale_non_sanitario": 212,
     "categoria_ospiti_rsa": 81,
     "categoria_over80": 0,
     "categoria_forze_armate": 0,
     "categoria_personale_scolastico": 0,
-    "prima_dose": 146,
+    "prima_dose": 147,
     "seconda_dose": 712,
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -697,7 +717,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 32,
+    "index": 33,
     "data_somministrazione": "19/01/21",
     "area": "CAL",
     "totale": 1108,
@@ -717,7 +737,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 33,
+    "index": 34,
     "data_somministrazione": "23/01/21",
     "area": "CAL",
     "totale": 400,
@@ -737,7 +757,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 34,
+    "index": 35,
     "data_somministrazione": "10/01/21",
     "area": "CAL",
     "totale": 929,
@@ -757,7 +777,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 35,
+    "index": 36,
     "data_somministrazione": "10/02/21",
     "area": "CAL",
     "totale": 2463,
@@ -777,7 +797,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 36,
+    "index": 37,
     "data_somministrazione": "06/01/21",
     "area": "CAL",
     "totale": 926,
@@ -797,7 +817,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 37,
+    "index": 38,
     "data_somministrazione": "17/02/21",
     "area": "CAL",
     "totale": 1681,
@@ -817,7 +837,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 38,
+    "index": 39,
     "data_somministrazione": "21/02/21",
     "area": "CAL",
     "totale": 607,
@@ -837,7 +857,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 39,
+    "index": 40,
     "data_somministrazione": "16/02/21",
     "area": "CAL",
     "totale": 1534,
@@ -857,7 +877,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 40,
+    "index": 41,
     "data_somministrazione": "20/02/21",
     "area": "CAL",
     "totale": 1358,
@@ -877,7 +897,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 41,
+    "index": 42,
     "data_somministrazione": "01/02/21",
     "area": "CAL",
     "totale": 2496,
@@ -897,7 +917,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 42,
+    "index": 43,
     "data_somministrazione": "07/01/21",
     "area": "CAL",
     "totale": 2179,
@@ -917,7 +937,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 43,
+    "index": 44,
     "data_somministrazione": "23/02/21",
     "area": "CAL",
     "totale": 1549,
@@ -937,7 +957,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 44,
+    "index": 45,
     "data_somministrazione": "18/01/21",
     "area": "CAL",
     "totale": 1230,
@@ -957,7 +977,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 45,
+    "index": 46,
     "data_somministrazione": "28/01/21",
     "area": "CAL",
     "totale": 2232,
@@ -977,7 +997,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 46,
+    "index": 47,
     "data_somministrazione": "26/02/21",
     "area": "CAL",
     "totale": 3077,
@@ -997,7 +1017,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 47,
+    "index": 48,
     "data_somministrazione": "03/01/21",
     "area": "CAL",
     "totale": 6,
@@ -1017,7 +1037,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 48,
+    "index": 49,
     "data_somministrazione": "14/02/21",
     "area": "CAL",
     "totale": 371,
@@ -1037,7 +1057,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 49,
+    "index": 50,
     "data_somministrazione": "08/01/21",
     "area": "CAL",
     "totale": 2109,
@@ -1057,7 +1077,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 50,
+    "index": 51,
     "data_somministrazione": "26/01/21",
     "area": "CAL",
     "totale": 1805,
@@ -1077,7 +1097,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 51,
+    "index": 52,
     "data_somministrazione": "05/01/21",
     "area": "CAL",
     "totale": 1350,
@@ -1097,7 +1117,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 52,
+    "index": 53,
     "data_somministrazione": "16/01/21",
     "area": "CAL",
     "totale": 2394,
@@ -1117,7 +1137,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 53,
+    "index": 54,
     "data_somministrazione": "02/01/21",
     "area": "CAL",
     "totale": 165,
@@ -1137,7 +1157,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 54,
+    "index": 55,
     "data_somministrazione": "24/01/21",
     "area": "CAL",
     "totale": 44,
@@ -1157,7 +1177,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 55,
+    "index": 56,
     "data_somministrazione": "28/12/20",
     "area": "CAL",
     "totale": 6,
@@ -1177,7 +1197,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 56,
+    "index": 57,
     "data_somministrazione": "20/01/21",
     "area": "CAL",
     "totale": 1395,
@@ -1197,7 +1217,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 57,
+    "index": 58,
     "data_somministrazione": "22/02/21",
     "area": "CAL",
     "totale": 1996,
@@ -1217,7 +1237,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 58,
+    "index": 59,
     "data_somministrazione": "15/01/21",
     "area": "CAL",
     "totale": 2793,
@@ -1236,5 +1256,5 @@
     "codice_regione_ISTAT": 18,
     "nome_area": "Calabria"
   }
- ]
+]
 }
