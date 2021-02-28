@@ -400,17 +400,17 @@
     "index": 17,
     "data_somministrazione": "27/02/21",
     "area": "CAL",
-    "totale": 2780,
-    "sesso_maschile": 1453,
-    "sesso_femminile": 1327,
-    "categoria_operatori_sanitari_sociosanitari": 349,
-    "categoria_personale_non_sanitario": 495,
-    "categoria_ospiti_rsa": 246,
-    "categoria_over80": 1475,
-    "categoria_forze_armate": 214,
-    "categoria_personale_scolastico": 1,
-    "prima_dose": 2433,
-    "seconda_dose": 347,
+    "totale": 3673,
+    "sesso_maschile": 1907,
+    "sesso_femminile": 1766,
+    "categoria_operatori_sanitari_sociosanitari": 421,
+    "categoria_personale_non_sanitario": 588,
+    "categoria_ospiti_rsa": 395,
+    "categoria_over80": 1971,
+    "categoria_forze_armate": 296,
+    "categoria_personale_scolastico": 2,
+    "prima_dose": 3295,
+    "seconda_dose": 378,
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
@@ -1236,5 +1236,5 @@
     "codice_regione_ISTAT": 18,
     "nome_area": "Calabria"
   }
- ] 
+ ]
 }
