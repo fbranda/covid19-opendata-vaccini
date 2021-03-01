@@ -78,7 +78,7 @@
             "categoria_personale_scolastico":0,
             "prima_dose":53,
             "seconda_dose":19,
-            "ultimo_aggiornamento":"2021-02-28T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-03-01T00:00:00.000Z"
         },
         {
             "index":1,
@@ -94,7 +94,7 @@
             "categoria_personale_scolastico":5,
             "prima_dose":3786,
             "seconda_dose":2360,
-            "ultimo_aggiornamento":"2021-02-28T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-03-01T00:00:00.000Z"
         },
         {
             "index":2,
@@ -110,7 +110,7 @@
             "categoria_personale_scolastico":21,
             "prima_dose":8299,
             "seconda_dose":5823,
-            "ultimo_aggiornamento":"2021-02-28T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-03-01T00:00:00.000Z"
         },
         {
             "index":3,
@@ -126,7 +126,7 @@
             "categoria_personale_scolastico":74,
             "prima_dose":9764,
             "seconda_dose":6902,
-            "ultimo_aggiornamento":"2021-02-28T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-03-01T00:00:00.000Z"
         },
         {
             "index":4,
@@ -142,7 +142,7 @@
             "categoria_personale_scolastico":58,
             "prima_dose":12101,
             "seconda_dose":9352,
-            "ultimo_aggiornamento":"2021-02-28T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-03-01T00:00:00.000Z"
         },
         {
             "index":5,
@@ -158,7 +158,7 @@
             "categoria_personale_scolastico":5,
             "prima_dose":11403,
             "seconda_dose":9449,
-            "ultimo_aggiornamento":"2021-02-28T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-03-01T00:00:00.000Z"
         },
         {
             "index":6,
@@ -174,7 +174,7 @@
             "categoria_personale_scolastico":0,
             "prima_dose":2834,
             "seconda_dose":1598,
-            "ultimo_aggiornamento":"2021-02-28T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-03-01T00:00:00.000Z"
         },
         {
             "index":7,
@@ -190,7 +190,7 @@
             "categoria_personale_scolastico":2,
             "prima_dose":12671,
             "seconda_dose":929,
-            "ultimo_aggiornamento":"2021-02-28T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-03-01T00:00:00.000Z"
         },
         {
             "index":8,
@@ -206,7 +206,7 @@
             "categoria_personale_scolastico":0,
             "prima_dose":2878,
             "seconda_dose":555,
-            "ultimo_aggiornamento":"2021-02-28T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-03-01T00:00:00.000Z"
         }
     ]
 }
