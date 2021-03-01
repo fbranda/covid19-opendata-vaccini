@@ -818,6 +818,26 @@
   },
   {
     "index": 38,
+    "data_somministrazione": "01/03/21",
+    "area": "CAL",
+    "totale": 683,
+    "sesso_maschile": 395,
+    "sesso_femminile": 288,
+    "categoria_operatori_sanitari_sociosanitari": 109,
+    "categoria_personale_non_sanitario": 130,
+    "categoria_ospiti_rsa": 2,
+    "categoria_over80": 294,
+    "categoria_forze_armate": 147,
+    "categoria_personale_scolastico": 1,
+    "prima_dose": 604,
+    "seconda_dose": 79,
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
+  },
+  {
+    "index": 39,
     "data_somministrazione": "17/02/21",
     "area": "CAL",
     "totale": 1681,
@@ -837,7 +857,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 39,
+    "index": 40,
     "data_somministrazione": "21/02/21",
     "area": "CAL",
     "totale": 607,
@@ -857,7 +877,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 40,
+    "index": 41,
     "data_somministrazione": "16/02/21",
     "area": "CAL",
     "totale": 1534,
@@ -877,7 +897,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 41,
+    "index": 42,
     "data_somministrazione": "20/02/21",
     "area": "CAL",
     "totale": 1358,
@@ -897,7 +917,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 42,
+    "index": 43,
     "data_somministrazione": "01/02/21",
     "area": "CAL",
     "totale": 2496,
@@ -917,7 +937,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 43,
+    "index": 44,
     "data_somministrazione": "07/01/21",
     "area": "CAL",
     "totale": 2179,
@@ -937,7 +957,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 44,
+    "index": 45,
     "data_somministrazione": "23/02/21",
     "area": "CAL",
     "totale": 1549,
@@ -957,7 +977,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 45,
+    "index": 46,
     "data_somministrazione": "18/01/21",
     "area": "CAL",
     "totale": 1230,
@@ -977,7 +997,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 46,
+    "index": 47,
     "data_somministrazione": "28/01/21",
     "area": "CAL",
     "totale": 2232,
@@ -997,7 +1017,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 47,
+    "index": 48,
     "data_somministrazione": "26/02/21",
     "area": "CAL",
     "totale": 3077,
@@ -1017,7 +1037,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 48,
+    "index": 49,
     "data_somministrazione": "03/01/21",
     "area": "CAL",
     "totale": 6,
@@ -1037,7 +1057,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 49,
+    "index": 50,
     "data_somministrazione": "14/02/21",
     "area": "CAL",
     "totale": 371,
@@ -1057,7 +1077,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 50,
+    "index": 51,
     "data_somministrazione": "08/01/21",
     "area": "CAL",
     "totale": 2109,
@@ -1077,7 +1097,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 51,
+    "index": 52,
     "data_somministrazione": "26/01/21",
     "area": "CAL",
     "totale": 1805,
@@ -1097,7 +1117,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 52,
+    "index": 53,
     "data_somministrazione": "05/01/21",
     "area": "CAL",
     "totale": 1350,
@@ -1117,7 +1137,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 53,
+    "index": 54,
     "data_somministrazione": "16/01/21",
     "area": "CAL",
     "totale": 2394,
@@ -1137,7 +1157,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 54,
+    "index": 55,
     "data_somministrazione": "02/01/21",
     "area": "CAL",
     "totale": 165,
@@ -1157,7 +1177,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 55,
+    "index": 56,
     "data_somministrazione": "24/01/21",
     "area": "CAL",
     "totale": 44,
@@ -1177,7 +1197,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 56,
+    "index": 57,
     "data_somministrazione": "28/12/20",
     "area": "CAL",
     "totale": 6,
@@ -1197,7 +1217,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 57,
+    "index": 58,
     "data_somministrazione": "20/01/21",
     "area": "CAL",
     "totale": 1395,
@@ -1217,7 +1237,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 58,
+    "index": 59,
     "data_somministrazione": "22/02/21",
     "area": "CAL",
     "totale": 1996,
@@ -1237,7 +1257,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 59,
+    "index": 60,
     "data_somministrazione": "15/01/21",
     "area": "CAL",
     "totale": 2793,
