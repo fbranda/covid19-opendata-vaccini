@@ -47,19 +47,17 @@
         ],
         "pandas_version":"0.20.0"
     },
-    "data":[
-        
-        {
-            "index":0,
-            "area":"CAL",
-            "dosi_somministrate":101459,
-            "dosi_consegnate":185880,
-            "percentuale_somministrazione":54.6,
-            "ultimo_aggiornamento":"2021-03-01T00:00:00.000Z",
-            "codice_NUTS1":"ITF",
-            "codice_NUTS2":"ITF6",
-            "codice_regione_ISTAT":18,
-            "nome_area":"Calabria"
-        }
-    ]
+    "data": [
+  {
+    "area": "CAL",
+    "dosi_somministrate": 101459,
+    "dosi_consegnate": 185880,
+    "percentuale_somministrazione": 54.6,
+    "ultimo_aggiornamento": "01/03/21",
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
+  }
+ ]
 }
