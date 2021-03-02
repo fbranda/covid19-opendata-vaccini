@@ -1299,6 +1299,26 @@
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
     "nome_area": "Calabria"
+  },
+  {
+    "index": 61,
+    "data_somministrazione": "02/03/21",
+    "area": "CAL",
+    "totale": 1413,
+    "sesso_maschile": 778,
+    "sesso_femminile": 635,
+    "categoria_operatori_sanitari_sociosanitari": 298,
+    "categoria_personale_non_sanitario": 211,
+    "categoria_ospiti_rsa": 190,
+    "categoria_over80": 441,
+    "categoria_forze_armate": 273,
+    "categoria_personale_scolastico": 0,
+    "prima_dose": 1154,
+    "seconda_dose": 259,
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
   }
 ]
 }
