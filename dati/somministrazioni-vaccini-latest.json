@@ -805,14 +805,14 @@
     "area": "CAL",
     "fascia_anagrafica": "16-19",
     "sesso_maschile": 1,
-    "sesso_femminile": 0,
+    "sesso_femminile": 1,
     "categoria_operatori_sanitari_sociosanitari": 1,
-    "categoria_personale_non_sanitario": 0,
+    "categoria_personale_non_sanitario": 1,
     "categoria_ospiti_rsa": 0,
     "categoria_over80": 0,
     "categoria_forze_armate": 0,
     "categoria_personale_scolastico": 0,
-    "prima_dose": 0,
+    "prima_dose": 1,
     "seconda_dose": 1,
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -2547,16 +2547,16 @@
     "fornitore": "AstraZeneca",
     "area": "CAL",
     "fascia_anagrafica": "20-29",
-    "sesso_maschile": 17,
-    "sesso_femminile": 5,
+    "sesso_maschile": 67,
+    "sesso_femminile": 11,
     "categoria_operatori_sanitari_sociosanitari": 0,
-    "categoria_personale_non_sanitario": 0,
+    "categoria_personale_non_sanitario": 3,
     "categoria_ospiti_rsa": 0,
     "categoria_over80": 0,
-    "categoria_forze_armate": 22,
+    "categoria_forze_armate": 75,
     "categoria_personale_scolastico": 0,
-    "prima_dose": 22,
-    "seconda_dose": 0,
+    "prima_dose": 77,
+    "seconda_dose": 1,
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
@@ -2568,16 +2568,16 @@
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
     "fascia_anagrafica": "20-29",
-    "sesso_maschile": 15,
-    "sesso_femminile": 26,
-    "categoria_operatori_sanitari_sociosanitari": 34,
-    "categoria_personale_non_sanitario": 7,
+    "sesso_maschile": 46,
+    "sesso_femminile": 65,
+    "categoria_operatori_sanitari_sociosanitari": 89,
+    "categoria_personale_non_sanitario": 22,
     "categoria_ospiti_rsa": 0,
     "categoria_over80": 0,
     "categoria_forze_armate": 0,
     "categoria_personale_scolastico": 0,
-    "prima_dose": 10,
-    "seconda_dose": 31,
+    "prima_dose": 23,
+    "seconda_dose": 88,
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
@@ -4479,15 +4479,15 @@
     "fornitore": "AstraZeneca",
     "area": "CAL",
     "fascia_anagrafica": "30-39",
-    "sesso_maschile": 31,
-    "sesso_femminile": 2,
+    "sesso_maschile": 123,
+    "sesso_femminile": 15,
     "categoria_operatori_sanitari_sociosanitari": 0,
-    "categoria_personale_non_sanitario": 0,
+    "categoria_personale_non_sanitario": 8,
     "categoria_ospiti_rsa": 0,
     "categoria_over80": 0,
-    "categoria_forze_armate": 33,
+    "categoria_forze_armate": 130,
     "categoria_personale_scolastico": 0,
-    "prima_dose": 33,
+    "prima_dose": 138,
     "seconda_dose": 0,
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -4497,19 +4497,19 @@
   {
     "index": 210,
     "data_somministrazione": "01/03/21",
-    "fornitore": "Pfizer/BioNTech",
+    "fornitore": "Moderna",
     "area": "CAL",
     "fascia_anagrafica": "30-39",
-    "sesso_maschile": 16,
-    "sesso_femminile": 31,
-    "categoria_operatori_sanitari_sociosanitari": 23,
-    "categoria_personale_non_sanitario": 24,
+    "sesso_maschile": 1,
+    "sesso_femminile": 0,
+    "categoria_operatori_sanitari_sociosanitari": 0,
+    "categoria_personale_non_sanitario": 0,
     "categoria_ospiti_rsa": 0,
     "categoria_over80": 0,
-    "categoria_forze_armate": 0,
+    "categoria_forze_armate": 1,
     "categoria_personale_scolastico": 0,
-    "prima_dose": 30,
-    "seconda_dose": 17,
+    "prima_dose": 1,
+    "seconda_dose": 0,
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
@@ -4517,6 +4517,27 @@
   },
   {
     "index": 211,
+    "data_somministrazione": "01/03/21",
+    "fornitore": "Pfizer/BioNTech",
+    "area": "CAL",
+    "fascia_anagrafica": "30-39",
+    "sesso_maschile": 46,
+    "sesso_femminile": 84,
+    "categoria_operatori_sanitari_sociosanitari": 82,
+    "categoria_personale_non_sanitario": 47,
+    "categoria_ospiti_rsa": 0,
+    "categoria_over80": 0,
+    "categoria_forze_armate": 1,
+    "categoria_personale_scolastico": 0,
+    "prima_dose": 43,
+    "seconda_dose": 87,
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
+  },
+  {
+    "index": 212,
     "data_somministrazione": "27/12/20",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4537,7 +4558,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 212,
+    "index": 213,
     "data_somministrazione": "28/12/20",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4558,7 +4579,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 213,
+    "index": 214,
     "data_somministrazione": "02/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4579,7 +4600,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 214,
+    "index": 215,
     "data_somministrazione": "04/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4600,7 +4621,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 215,
+    "index": 216,
     "data_somministrazione": "05/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4621,7 +4642,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 216,
+    "index": 217,
     "data_somministrazione": "06/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4642,7 +4663,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 217,
+    "index": 218,
     "data_somministrazione": "07/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4663,7 +4684,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 218,
+    "index": 219,
     "data_somministrazione": "08/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4684,7 +4705,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 219,
+    "index": 220,
     "data_somministrazione": "09/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4705,7 +4726,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 220,
+    "index": 221,
     "data_somministrazione": "10/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4726,7 +4747,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 221,
+    "index": 222,
     "data_somministrazione": "11/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4747,7 +4768,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 222,
+    "index": 223,
     "data_somministrazione": "12/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4768,7 +4789,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 223,
+    "index": 224,
     "data_somministrazione": "13/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4789,7 +4810,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 224,
+    "index": 225,
     "data_somministrazione": "14/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4810,7 +4831,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 225,
+    "index": 226,
     "data_somministrazione": "15/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4831,7 +4852,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 226,
+    "index": 227,
     "data_somministrazione": "16/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4852,7 +4873,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 227,
+    "index": 228,
     "data_somministrazione": "17/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4873,7 +4894,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 228,
+    "index": 229,
     "data_somministrazione": "18/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4894,7 +4915,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 229,
+    "index": 230,
     "data_somministrazione": "19/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4915,7 +4936,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 230,
+    "index": 231,
     "data_somministrazione": "20/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4936,7 +4957,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 231,
+    "index": 232,
     "data_somministrazione": "21/01/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -4957,7 +4978,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 232,
+    "index": 233,
     "data_somministrazione": "21/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -4978,7 +4999,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 233,
+    "index": 234,
     "data_somministrazione": "22/01/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -4999,7 +5020,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 234,
+    "index": 235,
     "data_somministrazione": "22/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5020,7 +5041,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 235,
+    "index": 236,
     "data_somministrazione": "23/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5041,7 +5062,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 236,
+    "index": 237,
     "data_somministrazione": "24/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5062,7 +5083,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 237,
+    "index": 238,
     "data_somministrazione": "25/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5083,7 +5104,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 238,
+    "index": 239,
     "data_somministrazione": "26/01/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -5104,7 +5125,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 239,
+    "index": 240,
     "data_somministrazione": "26/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5125,7 +5146,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 240,
+    "index": 241,
     "data_somministrazione": "27/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5146,7 +5167,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 241,
+    "index": 242,
     "data_somministrazione": "28/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5167,7 +5188,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 242,
+    "index": 243,
     "data_somministrazione": "29/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5188,7 +5209,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 243,
+    "index": 244,
     "data_somministrazione": "30/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5209,7 +5230,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 244,
+    "index": 245,
     "data_somministrazione": "31/01/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -5230,7 +5251,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 245,
+    "index": 246,
     "data_somministrazione": "31/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5251,7 +5272,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 246,
+    "index": 247,
     "data_somministrazione": "01/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5272,7 +5293,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 247,
+    "index": 248,
     "data_somministrazione": "02/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5293,7 +5314,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 248,
+    "index": 249,
     "data_somministrazione": "03/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -5314,7 +5335,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 249,
+    "index": 250,
     "data_somministrazione": "03/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5335,7 +5356,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 250,
+    "index": 251,
     "data_somministrazione": "04/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -5356,7 +5377,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 251,
+    "index": 252,
     "data_somministrazione": "04/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5377,7 +5398,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 252,
+    "index": 253,
     "data_somministrazione": "05/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -5398,7 +5419,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 253,
+    "index": 254,
     "data_somministrazione": "05/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5419,7 +5440,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 254,
+    "index": 255,
     "data_somministrazione": "06/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -5440,7 +5461,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 255,
+    "index": 256,
     "data_somministrazione": "06/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5461,7 +5482,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 256,
+    "index": 257,
     "data_somministrazione": "07/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5482,7 +5503,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 257,
+    "index": 258,
     "data_somministrazione": "08/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -5503,7 +5524,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 258,
+    "index": 259,
     "data_somministrazione": "08/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5524,7 +5545,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 259,
+    "index": 260,
     "data_somministrazione": "09/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -5545,7 +5566,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 260,
+    "index": 261,
     "data_somministrazione": "09/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5566,7 +5587,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 261,
+    "index": 262,
     "data_somministrazione": "10/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -5587,7 +5608,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 262,
+    "index": 263,
     "data_somministrazione": "10/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5608,7 +5629,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 263,
+    "index": 264,
     "data_somministrazione": "11/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5629,7 +5650,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 264,
+    "index": 265,
     "data_somministrazione": "12/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -5650,7 +5671,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 265,
+    "index": 266,
     "data_somministrazione": "12/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5671,7 +5692,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 266,
+    "index": 267,
     "data_somministrazione": "13/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -5692,7 +5713,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 267,
+    "index": 268,
     "data_somministrazione": "13/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5713,7 +5734,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 268,
+    "index": 269,
     "data_somministrazione": "14/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -5734,7 +5755,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 269,
+    "index": 270,
     "data_somministrazione": "14/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5755,7 +5776,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 270,
+    "index": 271,
     "data_somministrazione": "15/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -5776,7 +5797,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 271,
+    "index": 272,
     "data_somministrazione": "15/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5797,7 +5818,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 272,
+    "index": 273,
     "data_somministrazione": "16/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -5818,7 +5839,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 273,
+    "index": 274,
     "data_somministrazione": "16/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5839,7 +5860,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 274,
+    "index": 275,
     "data_somministrazione": "17/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -5860,7 +5881,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 275,
+    "index": 276,
     "data_somministrazione": "17/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -5881,7 +5902,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 276,
+    "index": 277,
     "data_somministrazione": "17/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5902,7 +5923,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 277,
+    "index": 278,
     "data_somministrazione": "18/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -5923,7 +5944,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 278,
+    "index": 279,
     "data_somministrazione": "18/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -5944,7 +5965,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 279,
+    "index": 280,
     "data_somministrazione": "18/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -5965,7 +5986,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 280,
+    "index": 281,
     "data_somministrazione": "19/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -5986,7 +6007,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 281,
+    "index": 282,
     "data_somministrazione": "19/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6007,7 +6028,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 282,
+    "index": 283,
     "data_somministrazione": "20/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -6028,7 +6049,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 283,
+    "index": 284,
     "data_somministrazione": "20/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6049,7 +6070,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 284,
+    "index": 285,
     "data_somministrazione": "21/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -6070,7 +6091,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 285,
+    "index": 286,
     "data_somministrazione": "21/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6091,7 +6112,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 286,
+    "index": 287,
     "data_somministrazione": "22/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -6112,7 +6133,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 287,
+    "index": 288,
     "data_somministrazione": "22/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6133,7 +6154,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 288,
+    "index": 289,
     "data_somministrazione": "23/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6154,7 +6175,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 289,
+    "index": 290,
     "data_somministrazione": "24/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -6175,7 +6196,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 290,
+    "index": 291,
     "data_somministrazione": "24/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6196,7 +6217,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 291,
+    "index": 292,
     "data_somministrazione": "25/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -6217,7 +6238,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 292,
+    "index": 293,
     "data_somministrazione": "25/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -6238,7 +6259,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 293,
+    "index": 294,
     "data_somministrazione": "25/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6259,7 +6280,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 294,
+    "index": 295,
     "data_somministrazione": "26/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -6280,7 +6301,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 295,
+    "index": 296,
     "data_somministrazione": "26/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -6301,7 +6322,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 296,
+    "index": 297,
     "data_somministrazione": "26/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6322,7 +6343,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 297,
+    "index": 298,
     "data_somministrazione": "27/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -6343,7 +6364,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 298,
+    "index": 299,
     "data_somministrazione": "27/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6364,7 +6385,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 299,
+    "index": 300,
     "data_somministrazione": "28/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -6385,7 +6406,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 300,
+    "index": 301,
     "data_somministrazione": "28/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6406,20 +6427,20 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 301,
+    "index": 302,
     "data_somministrazione": "01/03/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
     "fascia_anagrafica": "40-49",
-    "sesso_maschile": 45,
-    "sesso_femminile": 2,
+    "sesso_maschile": 196,
+    "sesso_femminile": 12,
     "categoria_operatori_sanitari_sociosanitari": 0,
-    "categoria_personale_non_sanitario": 0,
+    "categoria_personale_non_sanitario": 14,
     "categoria_ospiti_rsa": 0,
     "categoria_over80": 0,
-    "categoria_forze_armate": 47,
+    "categoria_forze_armate": 194,
     "categoria_personale_scolastico": 0,
-    "prima_dose": 47,
+    "prima_dose": 208,
     "seconda_dose": 0,
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -6427,7 +6448,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 302,
+    "index": 303,
     "data_somministrazione": "01/03/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -6448,28 +6469,28 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 303,
+    "index": 304,
     "data_somministrazione": "01/03/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
     "fascia_anagrafica": "40-49",
-    "sesso_maschile": 12,
-    "sesso_femminile": 22,
-    "categoria_operatori_sanitari_sociosanitari": 16,
-    "categoria_personale_non_sanitario": 18,
+    "sesso_maschile": 62,
+    "sesso_femminile": 85,
+    "categoria_operatori_sanitari_sociosanitari": 81,
+    "categoria_personale_non_sanitario": 64,
     "categoria_ospiti_rsa": 0,
     "categoria_over80": 0,
-    "categoria_forze_armate": 0,
+    "categoria_forze_armate": 2,
     "categoria_personale_scolastico": 0,
-    "prima_dose": 23,
-    "seconda_dose": 11,
+    "prima_dose": 57,
+    "seconda_dose": 90,
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
     "nome_area": "Calabria"
   },
   {
-    "index": 304,
+    "index": 305,
     "data_somministrazione": "27/12/20",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6490,7 +6511,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 305,
+    "index": 306,
     "data_somministrazione": "28/12/20",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6511,7 +6532,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 306,
+    "index": 307,
     "data_somministrazione": "02/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6532,7 +6553,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 307,
+    "index": 308,
     "data_somministrazione": "03/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6553,7 +6574,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 308,
+    "index": 309,
     "data_somministrazione": "04/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6574,7 +6595,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 309,
+    "index": 310,
     "data_somministrazione": "05/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6595,7 +6616,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 310,
+    "index": 311,
     "data_somministrazione": "06/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6616,7 +6637,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 311,
+    "index": 312,
     "data_somministrazione": "07/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6637,7 +6658,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 312,
+    "index": 313,
     "data_somministrazione": "08/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6658,7 +6679,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 313,
+    "index": 314,
     "data_somministrazione": "09/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6679,7 +6700,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 314,
+    "index": 315,
     "data_somministrazione": "10/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6700,7 +6721,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 315,
+    "index": 316,
     "data_somministrazione": "11/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6721,7 +6742,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 316,
+    "index": 317,
     "data_somministrazione": "12/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6742,7 +6763,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 317,
+    "index": 318,
     "data_somministrazione": "13/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6763,7 +6784,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 318,
+    "index": 319,
     "data_somministrazione": "14/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6784,7 +6805,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 319,
+    "index": 320,
     "data_somministrazione": "15/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6805,7 +6826,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 320,
+    "index": 321,
     "data_somministrazione": "16/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6826,7 +6847,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 321,
+    "index": 322,
     "data_somministrazione": "17/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6847,7 +6868,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 322,
+    "index": 323,
     "data_somministrazione": "18/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6868,7 +6889,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 323,
+    "index": 324,
     "data_somministrazione": "19/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6889,7 +6910,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 324,
+    "index": 325,
     "data_somministrazione": "20/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6910,7 +6931,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 325,
+    "index": 326,
     "data_somministrazione": "21/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6931,7 +6952,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 326,
+    "index": 327,
     "data_somministrazione": "22/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6952,7 +6973,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 327,
+    "index": 328,
     "data_somministrazione": "23/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6973,7 +6994,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 328,
+    "index": 329,
     "data_somministrazione": "24/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -6994,7 +7015,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 329,
+    "index": 330,
     "data_somministrazione": "25/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7015,7 +7036,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 330,
+    "index": 331,
     "data_somministrazione": "26/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7036,7 +7057,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 331,
+    "index": 332,
     "data_somministrazione": "27/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7057,7 +7078,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 332,
+    "index": 333,
     "data_somministrazione": "28/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7078,7 +7099,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 333,
+    "index": 334,
     "data_somministrazione": "29/01/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -7099,7 +7120,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 334,
+    "index": 335,
     "data_somministrazione": "29/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7120,7 +7141,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 335,
+    "index": 336,
     "data_somministrazione": "30/01/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -7141,7 +7162,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 336,
+    "index": 337,
     "data_somministrazione": "30/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7162,7 +7183,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 337,
+    "index": 338,
     "data_somministrazione": "31/01/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -7183,7 +7204,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 338,
+    "index": 339,
     "data_somministrazione": "31/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7204,7 +7225,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 339,
+    "index": 340,
     "data_somministrazione": "01/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7225,7 +7246,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 340,
+    "index": 341,
     "data_somministrazione": "02/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7246,7 +7267,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 341,
+    "index": 342,
     "data_somministrazione": "03/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -7267,7 +7288,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 342,
+    "index": 343,
     "data_somministrazione": "03/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7288,7 +7309,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 343,
+    "index": 344,
     "data_somministrazione": "04/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -7309,7 +7330,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 344,
+    "index": 345,
     "data_somministrazione": "04/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7330,7 +7351,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 345,
+    "index": 346,
     "data_somministrazione": "05/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -7351,7 +7372,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 346,
+    "index": 347,
     "data_somministrazione": "05/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7372,7 +7393,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 347,
+    "index": 348,
     "data_somministrazione": "06/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -7393,7 +7414,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 348,
+    "index": 349,
     "data_somministrazione": "06/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7414,7 +7435,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 349,
+    "index": 350,
     "data_somministrazione": "07/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7435,7 +7456,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 350,
+    "index": 351,
     "data_somministrazione": "08/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -7456,7 +7477,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 351,
+    "index": 352,
     "data_somministrazione": "08/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7477,7 +7498,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 352,
+    "index": 353,
     "data_somministrazione": "09/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7498,7 +7519,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 353,
+    "index": 354,
     "data_somministrazione": "10/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -7519,7 +7540,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 354,
+    "index": 355,
     "data_somministrazione": "10/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7540,7 +7561,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 355,
+    "index": 356,
     "data_somministrazione": "11/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -7561,7 +7582,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 356,
+    "index": 357,
     "data_somministrazione": "11/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7582,7 +7603,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 357,
+    "index": 358,
     "data_somministrazione": "12/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -7603,7 +7624,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 358,
+    "index": 359,
     "data_somministrazione": "12/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7624,7 +7645,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 359,
+    "index": 360,
     "data_somministrazione": "13/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -7645,7 +7666,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 360,
+    "index": 361,
     "data_somministrazione": "13/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7666,7 +7687,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 361,
+    "index": 362,
     "data_somministrazione": "14/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -7687,7 +7708,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 362,
+    "index": 363,
     "data_somministrazione": "14/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7708,7 +7729,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 363,
+    "index": 364,
     "data_somministrazione": "15/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7729,7 +7750,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 364,
+    "index": 365,
     "data_somministrazione": "16/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -7750,7 +7771,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 365,
+    "index": 366,
     "data_somministrazione": "16/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7771,7 +7792,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 366,
+    "index": 367,
     "data_somministrazione": "17/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -7792,7 +7813,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 367,
+    "index": 368,
     "data_somministrazione": "17/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -7813,7 +7834,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 368,
+    "index": 369,
     "data_somministrazione": "17/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7834,7 +7855,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 369,
+    "index": 370,
     "data_somministrazione": "18/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -7855,7 +7876,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 370,
+    "index": 371,
     "data_somministrazione": "18/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -7876,7 +7897,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 371,
+    "index": 372,
     "data_somministrazione": "18/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7897,7 +7918,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 372,
+    "index": 373,
     "data_somministrazione": "19/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -7918,7 +7939,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 373,
+    "index": 374,
     "data_somministrazione": "19/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7939,7 +7960,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 374,
+    "index": 375,
     "data_somministrazione": "20/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -7960,7 +7981,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 375,
+    "index": 376,
     "data_somministrazione": "20/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -7981,7 +8002,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 376,
+    "index": 377,
     "data_somministrazione": "21/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -8002,7 +8023,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 377,
+    "index": 378,
     "data_somministrazione": "21/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8023,7 +8044,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 378,
+    "index": 379,
     "data_somministrazione": "22/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -8044,7 +8065,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 379,
+    "index": 380,
     "data_somministrazione": "22/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8065,7 +8086,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 380,
+    "index": 381,
     "data_somministrazione": "23/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8086,7 +8107,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 381,
+    "index": 382,
     "data_somministrazione": "24/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -8107,7 +8128,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 382,
+    "index": 383,
     "data_somministrazione": "24/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -8128,7 +8149,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 383,
+    "index": 384,
     "data_somministrazione": "24/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8149,7 +8170,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 384,
+    "index": 385,
     "data_somministrazione": "25/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -8170,7 +8191,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 385,
+    "index": 386,
     "data_somministrazione": "25/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -8191,7 +8212,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 386,
+    "index": 387,
     "data_somministrazione": "25/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8212,7 +8233,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 387,
+    "index": 388,
     "data_somministrazione": "26/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -8233,7 +8254,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 388,
+    "index": 389,
     "data_somministrazione": "26/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -8254,7 +8275,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 389,
+    "index": 390,
     "data_somministrazione": "26/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8275,7 +8296,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 390,
+    "index": 391,
     "data_somministrazione": "27/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -8296,7 +8317,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 391,
+    "index": 392,
     "data_somministrazione": "27/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -8317,7 +8338,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 392,
+    "index": 393,
     "data_somministrazione": "27/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8338,7 +8359,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 393,
+    "index": 394,
     "data_somministrazione": "28/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -8359,7 +8380,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 394,
+    "index": 395,
     "data_somministrazione": "28/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8380,20 +8401,20 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 395,
+    "index": 396,
     "data_somministrazione": "01/03/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
     "fascia_anagrafica": "50-59",
-    "sesso_maschile": 38,
-    "sesso_femminile": 2,
+    "sesso_maschile": 189,
+    "sesso_femminile": 16,
     "categoria_operatori_sanitari_sociosanitari": 0,
-    "categoria_personale_non_sanitario": 0,
+    "categoria_personale_non_sanitario": 15,
     "categoria_ospiti_rsa": 0,
     "categoria_over80": 0,
-    "categoria_forze_armate": 40,
+    "categoria_forze_armate": 190,
     "categoria_personale_scolastico": 0,
-    "prima_dose": 40,
+    "prima_dose": 205,
     "seconda_dose": 0,
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -8401,28 +8422,49 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 396,
+    "index": 397,
     "data_somministrazione": "01/03/21",
-    "fornitore": "Pfizer/BioNTech",
+    "fornitore": "Moderna",
     "area": "CAL",
     "fascia_anagrafica": "50-59",
-    "sesso_maschile": 12,
-    "sesso_femminile": 24,
-    "categoria_operatori_sanitari_sociosanitari": 9,
-    "categoria_personale_non_sanitario": 26,
+    "sesso_maschile": 1,
+    "sesso_femminile": 0,
+    "categoria_operatori_sanitari_sociosanitari": 0,
+    "categoria_personale_non_sanitario": 1,
     "categoria_ospiti_rsa": 0,
     "categoria_over80": 0,
-    "categoria_forze_armate": 1,
+    "categoria_forze_armate": 0,
     "categoria_personale_scolastico": 0,
-    "prima_dose": 30,
-    "seconda_dose": 6,
+    "prima_dose": 1,
+    "seconda_dose": 0,
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
     "nome_area": "Calabria"
   },
   {
-    "index": 397,
+    "index": 398,
+    "data_somministrazione": "01/03/21",
+    "fornitore": "Pfizer/BioNTech",
+    "area": "CAL",
+    "fascia_anagrafica": "50-59",
+    "sesso_maschile": 60,
+    "sesso_femminile": 99,
+    "categoria_operatori_sanitari_sociosanitari": 74,
+    "categoria_personale_non_sanitario": 74,
+    "categoria_ospiti_rsa": 1,
+    "categoria_over80": 0,
+    "categoria_forze_armate": 9,
+    "categoria_personale_scolastico": 1,
+    "prima_dose": 71,
+    "seconda_dose": 88,
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
+  },
+  {
+    "index": 399,
     "data_somministrazione": "27/12/20",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8443,7 +8485,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 398,
+    "index": 400,
     "data_somministrazione": "28/12/20",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8464,7 +8506,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 399,
+    "index": 401,
     "data_somministrazione": "02/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8485,7 +8527,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 400,
+    "index": 402,
     "data_somministrazione": "03/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8506,7 +8548,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 401,
+    "index": 403,
     "data_somministrazione": "04/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8527,7 +8569,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 402,
+    "index": 404,
     "data_somministrazione": "05/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8548,7 +8590,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 403,
+    "index": 405,
     "data_somministrazione": "06/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8569,7 +8611,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 404,
+    "index": 406,
     "data_somministrazione": "07/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8590,7 +8632,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 405,
+    "index": 407,
     "data_somministrazione": "08/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8611,7 +8653,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 406,
+    "index": 408,
     "data_somministrazione": "09/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8632,7 +8674,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 407,
+    "index": 409,
     "data_somministrazione": "10/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8653,7 +8695,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 408,
+    "index": 410,
     "data_somministrazione": "11/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8674,7 +8716,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 409,
+    "index": 411,
     "data_somministrazione": "12/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8695,7 +8737,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 410,
+    "index": 412,
     "data_somministrazione": "13/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8716,7 +8758,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 411,
+    "index": 413,
     "data_somministrazione": "14/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8737,7 +8779,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 412,
+    "index": 414,
     "data_somministrazione": "15/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8758,7 +8800,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 413,
+    "index": 415,
     "data_somministrazione": "16/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8779,7 +8821,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 414,
+    "index": 416,
     "data_somministrazione": "17/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8800,7 +8842,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 415,
+    "index": 417,
     "data_somministrazione": "18/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8821,7 +8863,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 416,
+    "index": 418,
     "data_somministrazione": "19/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8842,7 +8884,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 417,
+    "index": 419,
     "data_somministrazione": "20/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8863,7 +8905,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 418,
+    "index": 420,
     "data_somministrazione": "21/01/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -8884,7 +8926,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 419,
+    "index": 421,
     "data_somministrazione": "21/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8905,7 +8947,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 420,
+    "index": 422,
     "data_somministrazione": "22/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8926,7 +8968,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 421,
+    "index": 423,
     "data_somministrazione": "23/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8947,7 +8989,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 422,
+    "index": 424,
     "data_somministrazione": "24/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8968,7 +9010,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 423,
+    "index": 425,
     "data_somministrazione": "25/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -8989,7 +9031,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 424,
+    "index": 426,
     "data_somministrazione": "26/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9010,7 +9052,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 425,
+    "index": 427,
     "data_somministrazione": "27/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9031,7 +9073,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 426,
+    "index": 428,
     "data_somministrazione": "28/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9052,7 +9094,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 427,
+    "index": 429,
     "data_somministrazione": "29/01/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -9073,7 +9115,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 428,
+    "index": 430,
     "data_somministrazione": "29/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9094,7 +9136,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 429,
+    "index": 431,
     "data_somministrazione": "30/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9115,7 +9157,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 430,
+    "index": 432,
     "data_somministrazione": "31/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9136,7 +9178,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 431,
+    "index": 433,
     "data_somministrazione": "01/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9157,7 +9199,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 432,
+    "index": 434,
     "data_somministrazione": "02/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -9178,7 +9220,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 433,
+    "index": 435,
     "data_somministrazione": "02/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9199,7 +9241,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 434,
+    "index": 436,
     "data_somministrazione": "03/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -9220,7 +9262,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 435,
+    "index": 437,
     "data_somministrazione": "03/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9241,7 +9283,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 436,
+    "index": 438,
     "data_somministrazione": "04/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -9262,7 +9304,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 437,
+    "index": 439,
     "data_somministrazione": "04/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9283,7 +9325,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 438,
+    "index": 440,
     "data_somministrazione": "05/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9304,7 +9346,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 439,
+    "index": 441,
     "data_somministrazione": "06/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -9325,7 +9367,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 440,
+    "index": 442,
     "data_somministrazione": "06/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9346,7 +9388,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 441,
+    "index": 443,
     "data_somministrazione": "07/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9367,7 +9409,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 442,
+    "index": 444,
     "data_somministrazione": "08/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -9388,7 +9430,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 443,
+    "index": 445,
     "data_somministrazione": "08/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9409,7 +9451,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 444,
+    "index": 446,
     "data_somministrazione": "09/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9430,7 +9472,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 445,
+    "index": 447,
     "data_somministrazione": "10/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -9451,7 +9493,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 446,
+    "index": 448,
     "data_somministrazione": "10/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9472,7 +9514,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 447,
+    "index": 449,
     "data_somministrazione": "11/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -9493,7 +9535,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 448,
+    "index": 450,
     "data_somministrazione": "11/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9514,7 +9556,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 449,
+    "index": 451,
     "data_somministrazione": "12/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -9535,7 +9577,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 450,
+    "index": 452,
     "data_somministrazione": "12/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9556,7 +9598,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 451,
+    "index": 453,
     "data_somministrazione": "13/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -9577,7 +9619,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 452,
+    "index": 454,
     "data_somministrazione": "13/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9598,7 +9640,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 453,
+    "index": 455,
     "data_somministrazione": "14/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -9619,7 +9661,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 454,
+    "index": 456,
     "data_somministrazione": "14/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9640,7 +9682,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 455,
+    "index": 457,
     "data_somministrazione": "15/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -9661,7 +9703,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 456,
+    "index": 458,
     "data_somministrazione": "15/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9682,7 +9724,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 457,
+    "index": 459,
     "data_somministrazione": "16/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -9703,7 +9745,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 458,
+    "index": 460,
     "data_somministrazione": "16/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9724,7 +9766,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 459,
+    "index": 461,
     "data_somministrazione": "17/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -9745,7 +9787,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 460,
+    "index": 462,
     "data_somministrazione": "17/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -9766,7 +9808,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 461,
+    "index": 463,
     "data_somministrazione": "17/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9787,7 +9829,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 462,
+    "index": 464,
     "data_somministrazione": "18/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -9808,7 +9850,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 463,
+    "index": 465,
     "data_somministrazione": "18/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9829,7 +9871,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 464,
+    "index": 466,
     "data_somministrazione": "19/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -9850,7 +9892,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 465,
+    "index": 467,
     "data_somministrazione": "19/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9871,7 +9913,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 466,
+    "index": 468,
     "data_somministrazione": "20/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9892,7 +9934,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 467,
+    "index": 469,
     "data_somministrazione": "21/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9913,7 +9955,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 468,
+    "index": 470,
     "data_somministrazione": "22/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -9934,7 +9976,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 469,
+    "index": 471,
     "data_somministrazione": "22/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9955,7 +9997,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 470,
+    "index": 472,
     "data_somministrazione": "23/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -9976,7 +10018,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 471,
+    "index": 473,
     "data_somministrazione": "24/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -9997,7 +10039,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 472,
+    "index": 474,
     "data_somministrazione": "24/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -10018,7 +10060,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 473,
+    "index": 475,
     "data_somministrazione": "24/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10039,7 +10081,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 474,
+    "index": 476,
     "data_somministrazione": "25/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -10060,7 +10102,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 475,
+    "index": 477,
     "data_somministrazione": "25/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -10081,7 +10123,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 476,
+    "index": 478,
     "data_somministrazione": "25/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10102,7 +10144,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 477,
+    "index": 479,
     "data_somministrazione": "26/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -10123,7 +10165,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 478,
+    "index": 480,
     "data_somministrazione": "26/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -10144,7 +10186,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 479,
+    "index": 481,
     "data_somministrazione": "26/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10165,7 +10207,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 480,
+    "index": 482,
     "data_somministrazione": "27/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -10186,7 +10228,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 481,
+    "index": 483,
     "data_somministrazione": "27/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -10207,7 +10249,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 482,
+    "index": 484,
     "data_somministrazione": "27/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10228,7 +10270,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 483,
+    "index": 485,
     "data_somministrazione": "28/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -10249,7 +10291,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 484,
+    "index": 486,
     "data_somministrazione": "28/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10270,20 +10312,20 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 485,
+    "index": 487,
     "data_somministrazione": "01/03/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
     "fascia_anagrafica": "60-69",
-    "sesso_maschile": 1,
-    "sesso_femminile": 2,
-    "categoria_operatori_sanitari_sociosanitari": 0,
-    "categoria_personale_non_sanitario": 0,
+    "sesso_maschile": 22,
+    "sesso_femminile": 3,
+    "categoria_operatori_sanitari_sociosanitari": 1,
+    "categoria_personale_non_sanitario": 6,
     "categoria_ospiti_rsa": 0,
     "categoria_over80": 0,
-    "categoria_forze_armate": 3,
+    "categoria_forze_armate": 18,
     "categoria_personale_scolastico": 0,
-    "prima_dose": 3,
+    "prima_dose": 25,
     "seconda_dose": 0,
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -10291,28 +10333,28 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 486,
+    "index": 488,
     "data_somministrazione": "01/03/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
     "fascia_anagrafica": "60-69",
-    "sesso_maschile": 17,
-    "sesso_femminile": 12,
-    "categoria_operatori_sanitari_sociosanitari": 11,
-    "categoria_personale_non_sanitario": 17,
-    "categoria_ospiti_rsa": 0,
+    "sesso_maschile": 68,
+    "sesso_femminile": 49,
+    "categoria_operatori_sanitari_sociosanitari": 50,
+    "categoria_personale_non_sanitario": 52,
+    "categoria_ospiti_rsa": 3,
     "categoria_over80": 0,
-    "categoria_forze_armate": 1,
-    "categoria_personale_scolastico": 0,
-    "prima_dose": 23,
-    "seconda_dose": 6,
+    "categoria_forze_armate": 11,
+    "categoria_personale_scolastico": 1,
+    "prima_dose": 68,
+    "seconda_dose": 49,
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
     "nome_area": "Calabria"
   },
   {
-    "index": 487,
+    "index": 489,
     "data_somministrazione": "04/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10333,7 +10375,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 488,
+    "index": 490,
     "data_somministrazione": "05/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10354,7 +10396,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 489,
+    "index": 491,
     "data_somministrazione": "06/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10375,7 +10417,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 490,
+    "index": 492,
     "data_somministrazione": "07/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10396,7 +10438,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 491,
+    "index": 493,
     "data_somministrazione": "08/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10417,7 +10459,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 492,
+    "index": 494,
     "data_somministrazione": "09/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10438,7 +10480,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 493,
+    "index": 495,
     "data_somministrazione": "10/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10459,7 +10501,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 494,
+    "index": 496,
     "data_somministrazione": "11/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10480,7 +10522,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 495,
+    "index": 497,
     "data_somministrazione": "12/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10501,7 +10543,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 496,
+    "index": 498,
     "data_somministrazione": "13/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10522,7 +10564,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 497,
+    "index": 499,
     "data_somministrazione": "14/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10543,7 +10585,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 498,
+    "index": 500,
     "data_somministrazione": "15/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10564,7 +10606,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 499,
+    "index": 501,
     "data_somministrazione": "16/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10585,7 +10627,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 500,
+    "index": 502,
     "data_somministrazione": "17/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10606,7 +10648,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 501,
+    "index": 503,
     "data_somministrazione": "18/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10627,7 +10669,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 502,
+    "index": 504,
     "data_somministrazione": "19/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10648,7 +10690,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 503,
+    "index": 505,
     "data_somministrazione": "20/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10669,7 +10711,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 504,
+    "index": 506,
     "data_somministrazione": "21/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10690,7 +10732,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 505,
+    "index": 507,
     "data_somministrazione": "22/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10711,7 +10753,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 506,
+    "index": 508,
     "data_somministrazione": "23/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10732,7 +10774,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 507,
+    "index": 509,
     "data_somministrazione": "24/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10753,7 +10795,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 508,
+    "index": 510,
     "data_somministrazione": "25/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10774,7 +10816,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 509,
+    "index": 511,
     "data_somministrazione": "26/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10795,7 +10837,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 510,
+    "index": 512,
     "data_somministrazione": "27/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10816,7 +10858,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 511,
+    "index": 513,
     "data_somministrazione": "28/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10837,7 +10879,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 512,
+    "index": 514,
     "data_somministrazione": "29/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10858,7 +10900,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 513,
+    "index": 515,
     "data_somministrazione": "30/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10879,7 +10921,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 514,
+    "index": 516,
     "data_somministrazione": "31/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10900,7 +10942,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 515,
+    "index": 517,
     "data_somministrazione": "01/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10921,7 +10963,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 516,
+    "index": 518,
     "data_somministrazione": "02/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10942,7 +10984,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 517,
+    "index": 519,
     "data_somministrazione": "03/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -10963,7 +11005,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 518,
+    "index": 520,
     "data_somministrazione": "03/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -10984,7 +11026,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 519,
+    "index": 521,
     "data_somministrazione": "04/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -11005,7 +11047,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 520,
+    "index": 522,
     "data_somministrazione": "04/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11026,7 +11068,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 521,
+    "index": 523,
     "data_somministrazione": "05/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11047,7 +11089,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 522,
+    "index": 524,
     "data_somministrazione": "06/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -11068,7 +11110,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 523,
+    "index": 525,
     "data_somministrazione": "06/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11089,7 +11131,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 524,
+    "index": 526,
     "data_somministrazione": "07/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11110,7 +11152,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 525,
+    "index": 527,
     "data_somministrazione": "08/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -11131,7 +11173,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 526,
+    "index": 528,
     "data_somministrazione": "08/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11152,7 +11194,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 527,
+    "index": 529,
     "data_somministrazione": "09/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11173,7 +11215,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 528,
+    "index": 530,
     "data_somministrazione": "10/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -11194,7 +11236,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 529,
+    "index": 531,
     "data_somministrazione": "10/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11215,7 +11257,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 530,
+    "index": 532,
     "data_somministrazione": "11/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -11236,7 +11278,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 531,
+    "index": 533,
     "data_somministrazione": "11/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11257,7 +11299,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 532,
+    "index": 534,
     "data_somministrazione": "12/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -11278,7 +11320,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 533,
+    "index": 535,
     "data_somministrazione": "12/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11299,7 +11341,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 534,
+    "index": 536,
     "data_somministrazione": "13/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -11320,7 +11362,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 535,
+    "index": 537,
     "data_somministrazione": "13/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11341,7 +11383,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 536,
+    "index": 538,
     "data_somministrazione": "14/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -11362,7 +11404,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 537,
+    "index": 539,
     "data_somministrazione": "14/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11383,7 +11425,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 538,
+    "index": 540,
     "data_somministrazione": "15/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -11404,7 +11446,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 539,
+    "index": 541,
     "data_somministrazione": "15/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11425,7 +11467,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 540,
+    "index": 542,
     "data_somministrazione": "16/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -11446,7 +11488,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 541,
+    "index": 543,
     "data_somministrazione": "16/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11467,7 +11509,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 542,
+    "index": 544,
     "data_somministrazione": "17/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -11488,7 +11530,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 543,
+    "index": 545,
     "data_somministrazione": "17/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11509,7 +11551,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 544,
+    "index": 546,
     "data_somministrazione": "18/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -11530,7 +11572,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 545,
+    "index": 547,
     "data_somministrazione": "18/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11551,7 +11593,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 546,
+    "index": 548,
     "data_somministrazione": "19/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -11572,7 +11614,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 547,
+    "index": 549,
     "data_somministrazione": "19/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11593,7 +11635,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 548,
+    "index": 550,
     "data_somministrazione": "20/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11614,7 +11656,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 549,
+    "index": 551,
     "data_somministrazione": "21/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11635,7 +11677,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 550,
+    "index": 552,
     "data_somministrazione": "22/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11656,7 +11698,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 551,
+    "index": 553,
     "data_somministrazione": "23/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11677,7 +11719,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 552,
+    "index": 554,
     "data_somministrazione": "24/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11698,7 +11740,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 553,
+    "index": 555,
     "data_somministrazione": "25/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11719,7 +11761,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 554,
+    "index": 556,
     "data_somministrazione": "26/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -11740,7 +11782,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 555,
+    "index": 557,
     "data_somministrazione": "26/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11761,7 +11803,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 556,
+    "index": 558,
     "data_somministrazione": "27/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -11782,7 +11824,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 557,
+    "index": 559,
     "data_somministrazione": "27/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11803,7 +11845,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 558,
+    "index": 560,
     "data_somministrazione": "28/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11824,28 +11866,28 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 559,
+    "index": 561,
     "data_somministrazione": "01/03/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
     "fascia_anagrafica": "70-79",
-    "sesso_maschile": 14,
-    "sesso_femminile": 4,
-    "categoria_operatori_sanitari_sociosanitari": 13,
-    "categoria_personale_non_sanitario": 4,
-    "categoria_ospiti_rsa": 0,
+    "sesso_maschile": 36,
+    "sesso_femminile": 22,
+    "categoria_operatori_sanitari_sociosanitari": 18,
+    "categoria_personale_non_sanitario": 26,
+    "categoria_ospiti_rsa": 13,
     "categoria_over80": 0,
     "categoria_forze_armate": 0,
     "categoria_personale_scolastico": 1,
-    "prima_dose": 12,
-    "seconda_dose": 6,
+    "prima_dose": 42,
+    "seconda_dose": 16,
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
     "nome_area": "Calabria"
   },
   {
-    "index": 560,
+    "index": 562,
     "data_somministrazione": "06/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11866,7 +11908,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 561,
+    "index": 563,
     "data_somministrazione": "07/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11887,7 +11929,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 562,
+    "index": 564,
     "data_somministrazione": "08/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11908,7 +11950,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 563,
+    "index": 565,
     "data_somministrazione": "09/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11929,7 +11971,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 564,
+    "index": 566,
     "data_somministrazione": "10/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11950,7 +11992,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 565,
+    "index": 567,
     "data_somministrazione": "11/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11971,7 +12013,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 566,
+    "index": 568,
     "data_somministrazione": "12/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -11992,7 +12034,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 567,
+    "index": 569,
     "data_somministrazione": "13/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12013,7 +12055,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 568,
+    "index": 570,
     "data_somministrazione": "14/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12034,7 +12076,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 569,
+    "index": 571,
     "data_somministrazione": "15/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12055,7 +12097,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 570,
+    "index": 572,
     "data_somministrazione": "16/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12076,7 +12118,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 571,
+    "index": 573,
     "data_somministrazione": "17/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12097,7 +12139,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 572,
+    "index": 574,
     "data_somministrazione": "18/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12118,7 +12160,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 573,
+    "index": 575,
     "data_somministrazione": "19/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12139,7 +12181,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 574,
+    "index": 576,
     "data_somministrazione": "20/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12160,7 +12202,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 575,
+    "index": 577,
     "data_somministrazione": "21/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12181,7 +12223,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 576,
+    "index": 578,
     "data_somministrazione": "22/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12202,7 +12244,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 577,
+    "index": 579,
     "data_somministrazione": "23/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12223,7 +12265,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 578,
+    "index": 580,
     "data_somministrazione": "26/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12244,7 +12286,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 579,
+    "index": 581,
     "data_somministrazione": "27/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12265,7 +12307,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 580,
+    "index": 582,
     "data_somministrazione": "28/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12286,7 +12328,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 581,
+    "index": 583,
     "data_somministrazione": "29/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12307,7 +12349,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 582,
+    "index": 584,
     "data_somministrazione": "30/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12328,7 +12370,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 583,
+    "index": 585,
     "data_somministrazione": "31/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12349,7 +12391,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 584,
+    "index": 586,
     "data_somministrazione": "01/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12370,7 +12412,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 585,
+    "index": 587,
     "data_somministrazione": "02/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12391,7 +12433,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 586,
+    "index": 588,
     "data_somministrazione": "03/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -12412,7 +12454,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 587,
+    "index": 589,
     "data_somministrazione": "03/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12433,7 +12475,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 588,
+    "index": 590,
     "data_somministrazione": "04/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -12454,7 +12496,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 589,
+    "index": 591,
     "data_somministrazione": "04/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12475,7 +12517,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 590,
+    "index": 592,
     "data_somministrazione": "05/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12496,7 +12538,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 591,
+    "index": 593,
     "data_somministrazione": "06/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -12517,7 +12559,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 592,
+    "index": 594,
     "data_somministrazione": "06/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12538,7 +12580,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 593,
+    "index": 595,
     "data_somministrazione": "07/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12559,7 +12601,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 594,
+    "index": 596,
     "data_somministrazione": "08/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -12580,7 +12622,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 595,
+    "index": 597,
     "data_somministrazione": "08/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12601,7 +12643,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 596,
+    "index": 598,
     "data_somministrazione": "09/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12622,7 +12664,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 597,
+    "index": 599,
     "data_somministrazione": "10/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -12643,7 +12685,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 598,
+    "index": 600,
     "data_somministrazione": "10/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12664,7 +12706,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 599,
+    "index": 601,
     "data_somministrazione": "11/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -12685,7 +12727,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 600,
+    "index": 602,
     "data_somministrazione": "11/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12706,7 +12748,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 601,
+    "index": 603,
     "data_somministrazione": "12/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -12727,7 +12769,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 602,
+    "index": 604,
     "data_somministrazione": "12/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12748,7 +12790,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 603,
+    "index": 605,
     "data_somministrazione": "13/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -12769,7 +12811,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 604,
+    "index": 606,
     "data_somministrazione": "13/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12790,7 +12832,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 605,
+    "index": 607,
     "data_somministrazione": "14/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -12811,7 +12853,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 606,
+    "index": 608,
     "data_somministrazione": "14/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12832,7 +12874,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 607,
+    "index": 609,
     "data_somministrazione": "15/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -12853,7 +12895,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 608,
+    "index": 610,
     "data_somministrazione": "15/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12874,7 +12916,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 609,
+    "index": 611,
     "data_somministrazione": "16/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -12895,7 +12937,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 610,
+    "index": 612,
     "data_somministrazione": "16/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12916,7 +12958,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 611,
+    "index": 613,
     "data_somministrazione": "17/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -12937,7 +12979,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 612,
+    "index": 614,
     "data_somministrazione": "17/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -12958,7 +13000,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 613,
+    "index": 615,
     "data_somministrazione": "18/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -12979,7 +13021,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 614,
+    "index": 616,
     "data_somministrazione": "18/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -13000,7 +13042,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 615,
+    "index": 617,
     "data_somministrazione": "18/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13021,7 +13063,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 616,
+    "index": 618,
     "data_somministrazione": "19/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -13042,7 +13084,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 617,
+    "index": 619,
     "data_somministrazione": "19/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13063,7 +13105,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 618,
+    "index": 620,
     "data_somministrazione": "20/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -13084,7 +13126,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 619,
+    "index": 621,
     "data_somministrazione": "20/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13105,7 +13147,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 620,
+    "index": 622,
     "data_somministrazione": "21/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13126,7 +13168,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 621,
+    "index": 623,
     "data_somministrazione": "22/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13147,7 +13189,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 622,
+    "index": 624,
     "data_somministrazione": "23/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13168,7 +13210,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 623,
+    "index": 625,
     "data_somministrazione": "24/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -13189,7 +13231,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 624,
+    "index": 626,
     "data_somministrazione": "24/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13210,7 +13252,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 625,
+    "index": 627,
     "data_somministrazione": "25/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -13231,7 +13273,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 626,
+    "index": 628,
     "data_somministrazione": "25/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13252,7 +13294,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 627,
+    "index": 629,
     "data_somministrazione": "26/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -13273,7 +13315,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 628,
+    "index": 630,
     "data_somministrazione": "26/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13294,7 +13336,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 629,
+    "index": 631,
     "data_somministrazione": "27/02/21",
     "fornitore": "AstraZeneca",
     "area": "CAL",
@@ -13315,7 +13357,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 630,
+    "index": 632,
     "data_somministrazione": "27/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -13336,7 +13378,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 631,
+    "index": 633,
     "data_somministrazione": "27/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13357,7 +13399,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 632,
+    "index": 634,
     "data_somministrazione": "28/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -13378,7 +13420,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 633,
+    "index": 635,
     "data_somministrazione": "28/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13399,9 +13441,9 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 634,
+    "index": 636,
     "data_somministrazione": "01/03/21",
-    "fornitore": "Moderna",
+    "fornitore": "AstraZeneca",
     "area": "CAL",
     "fascia_anagrafica": "80-89",
     "sesso_maschile": 0,
@@ -13420,20 +13462,20 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 635,
+    "index": 637,
     "data_somministrazione": "01/03/21",
-    "fornitore": "Pfizer/BioNTech",
+    "fornitore": "Moderna",
     "area": "CAL",
     "fascia_anagrafica": "80-89",
-    "sesso_maschile": 159,
-    "sesso_femminile": 129,
-    "categoria_operatori_sanitari_sociosanitari": 1,
-    "categoria_personale_non_sanitario": 29,
-    "categoria_ospiti_rsa": 1,
-    "categoria_over80": 257,
+    "sesso_maschile": 8,
+    "sesso_femminile": 15,
+    "categoria_operatori_sanitari_sociosanitari": 0,
+    "categoria_personale_non_sanitario": 0,
+    "categoria_ospiti_rsa": 2,
+    "categoria_over80": 21,
     "categoria_forze_armate": 0,
     "categoria_personale_scolastico": 0,
-    "prima_dose": 287,
+    "prima_dose": 22,
     "seconda_dose": 1,
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -13441,7 +13483,28 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 636,
+    "index": 638,
+    "data_somministrazione": "01/03/21",
+    "fornitore": "Pfizer/BioNTech",
+    "area": "CAL",
+    "fascia_anagrafica": "80-89",
+    "sesso_maschile": 522,
+    "sesso_femminile": 544,
+    "categoria_operatori_sanitari_sociosanitari": 2,
+    "categoria_personale_non_sanitario": 75,
+    "categoria_ospiti_rsa": 182,
+    "categoria_over80": 806,
+    "categoria_forze_armate": 1,
+    "categoria_personale_scolastico": 0,
+    "prima_dose": 1047,
+    "seconda_dose": 19,
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
+  },
+  {
+    "index": 639,
     "data_somministrazione": "10/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13462,7 +13525,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 637,
+    "index": 640,
     "data_somministrazione": "11/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13483,7 +13546,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 638,
+    "index": 641,
     "data_somministrazione": "12/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13504,7 +13567,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 639,
+    "index": 642,
     "data_somministrazione": "13/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13525,7 +13588,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 640,
+    "index": 643,
     "data_somministrazione": "14/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13546,7 +13609,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 641,
+    "index": 644,
     "data_somministrazione": "15/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13567,7 +13630,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 642,
+    "index": 645,
     "data_somministrazione": "16/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13588,7 +13651,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 643,
+    "index": 646,
     "data_somministrazione": "17/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13609,7 +13672,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 644,
+    "index": 647,
     "data_somministrazione": "18/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13630,7 +13693,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 645,
+    "index": 648,
     "data_somministrazione": "19/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13651,7 +13714,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 646,
+    "index": 649,
     "data_somministrazione": "20/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13672,7 +13735,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 647,
+    "index": 650,
     "data_somministrazione": "21/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13693,7 +13756,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 648,
+    "index": 651,
     "data_somministrazione": "22/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13714,7 +13777,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 649,
+    "index": 652,
     "data_somministrazione": "23/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13735,7 +13798,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 650,
+    "index": 653,
     "data_somministrazione": "24/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13756,7 +13819,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 651,
+    "index": 654,
     "data_somministrazione": "26/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13777,7 +13840,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 652,
+    "index": 655,
     "data_somministrazione": "27/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13798,7 +13861,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 653,
+    "index": 656,
     "data_somministrazione": "28/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13819,7 +13882,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 654,
+    "index": 657,
     "data_somministrazione": "29/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13840,7 +13903,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 655,
+    "index": 658,
     "data_somministrazione": "30/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13861,7 +13924,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 656,
+    "index": 659,
     "data_somministrazione": "31/01/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13882,7 +13945,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 657,
+    "index": 660,
     "data_somministrazione": "01/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13903,7 +13966,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 658,
+    "index": 661,
     "data_somministrazione": "02/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -13924,7 +13987,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 659,
+    "index": 662,
     "data_somministrazione": "02/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13945,7 +14008,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 660,
+    "index": 663,
     "data_somministrazione": "03/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -13966,7 +14029,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 661,
+    "index": 664,
     "data_somministrazione": "03/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -13987,7 +14050,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 662,
+    "index": 665,
     "data_somministrazione": "04/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -14008,7 +14071,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 663,
+    "index": 666,
     "data_somministrazione": "04/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14029,7 +14092,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 664,
+    "index": 667,
     "data_somministrazione": "05/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14050,7 +14113,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 665,
+    "index": 668,
     "data_somministrazione": "06/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -14071,7 +14134,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 666,
+    "index": 669,
     "data_somministrazione": "06/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14092,7 +14155,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 667,
+    "index": 670,
     "data_somministrazione": "07/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14113,7 +14176,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 668,
+    "index": 671,
     "data_somministrazione": "08/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -14134,7 +14197,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 669,
+    "index": 672,
     "data_somministrazione": "08/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14155,7 +14218,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 670,
+    "index": 673,
     "data_somministrazione": "09/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14176,7 +14239,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 671,
+    "index": 674,
     "data_somministrazione": "10/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -14197,7 +14260,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 672,
+    "index": 675,
     "data_somministrazione": "10/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14218,7 +14281,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 673,
+    "index": 676,
     "data_somministrazione": "11/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -14239,7 +14302,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 674,
+    "index": 677,
     "data_somministrazione": "11/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14260,7 +14323,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 675,
+    "index": 678,
     "data_somministrazione": "12/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -14281,7 +14344,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 676,
+    "index": 679,
     "data_somministrazione": "12/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14302,7 +14365,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 677,
+    "index": 680,
     "data_somministrazione": "13/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -14323,7 +14386,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 678,
+    "index": 681,
     "data_somministrazione": "13/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14344,7 +14407,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 679,
+    "index": 682,
     "data_somministrazione": "14/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -14365,7 +14428,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 680,
+    "index": 683,
     "data_somministrazione": "14/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14386,7 +14449,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 681,
+    "index": 684,
     "data_somministrazione": "15/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -14407,7 +14470,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 682,
+    "index": 685,
     "data_somministrazione": "15/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14428,7 +14491,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 683,
+    "index": 686,
     "data_somministrazione": "16/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -14449,7 +14512,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 684,
+    "index": 687,
     "data_somministrazione": "16/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14470,7 +14533,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 685,
+    "index": 688,
     "data_somministrazione": "17/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -14491,7 +14554,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 686,
+    "index": 689,
     "data_somministrazione": "17/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14512,7 +14575,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 687,
+    "index": 690,
     "data_somministrazione": "18/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -14533,7 +14596,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 688,
+    "index": 691,
     "data_somministrazione": "18/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14554,7 +14617,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 689,
+    "index": 692,
     "data_somministrazione": "19/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14575,7 +14638,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 690,
+    "index": 693,
     "data_somministrazione": "20/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14596,7 +14659,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 691,
+    "index": 694,
     "data_somministrazione": "21/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14617,7 +14680,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 692,
+    "index": 695,
     "data_somministrazione": "22/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14638,7 +14701,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 693,
+    "index": 696,
     "data_somministrazione": "23/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14659,7 +14722,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 694,
+    "index": 697,
     "data_somministrazione": "24/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -14680,7 +14743,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 695,
+    "index": 698,
     "data_somministrazione": "24/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14701,7 +14764,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 696,
+    "index": 699,
     "data_somministrazione": "25/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -14722,7 +14785,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 697,
+    "index": 700,
     "data_somministrazione": "25/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14743,7 +14806,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 698,
+    "index": 701,
     "data_somministrazione": "26/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -14764,7 +14827,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 699,
+    "index": 702,
     "data_somministrazione": "26/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14785,7 +14848,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 700,
+    "index": 703,
     "data_somministrazione": "27/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -14806,7 +14869,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 701,
+    "index": 704,
     "data_somministrazione": "27/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14827,7 +14890,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 702,
+    "index": 705,
     "data_somministrazione": "28/02/21",
     "fornitore": "Moderna",
     "area": "CAL",
@@ -14848,7 +14911,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 703,
+    "index": 706,
     "data_somministrazione": "28/02/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
@@ -14869,21 +14932,63 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 704,
+    "index": 707,
+    "data_somministrazione": "01/03/21",
+    "fornitore": "AstraZeneca",
+    "area": "CAL",
+    "fascia_anagrafica": "90+",
+    "sesso_maschile": 1,
+    "sesso_femminile": 0,
+    "categoria_operatori_sanitari_sociosanitari": 0,
+    "categoria_personale_non_sanitario": 0,
+    "categoria_ospiti_rsa": 0,
+    "categoria_over80": 1,
+    "categoria_forze_armate": 0,
+    "categoria_personale_scolastico": 0,
+    "prima_dose": 1,
+    "seconda_dose": 0,
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
+  },
+  {
+    "index": 708,
+    "data_somministrazione": "01/03/21",
+    "fornitore": "Moderna",
+    "area": "CAL",
+    "fascia_anagrafica": "90+",
+    "sesso_maschile": 2,
+    "sesso_femminile": 3,
+    "categoria_operatori_sanitari_sociosanitari": 0,
+    "categoria_personale_non_sanitario": 0,
+    "categoria_ospiti_rsa": 0,
+    "categoria_over80": 5,
+    "categoria_forze_armate": 0,
+    "categoria_personale_scolastico": 0,
+    "prima_dose": 5,
+    "seconda_dose": 0,
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
+  },
+  {
+    "index": 709,
     "data_somministrazione": "01/03/21",
     "fornitore": "Pfizer/BioNTech",
     "area": "CAL",
     "fascia_anagrafica": "90+",
-    "sesso_maschile": 17,
-    "sesso_femminile": 25,
+    "sesso_maschile": 78,
+    "sesso_femminile": 129,
     "categoria_operatori_sanitari_sociosanitari": 0,
-    "categoria_personale_non_sanitario": 5,
-    "categoria_ospiti_rsa": 1,
-    "categoria_over80": 36,
+    "categoria_personale_non_sanitario": 14,
+    "categoria_ospiti_rsa": 56,
+    "categoria_over80": 137,
     "categoria_forze_armate": 0,
     "categoria_personale_scolastico": 0,
-    "prima_dose": 42,
-    "seconda_dose": 0,
+    "prima_dose": 197,
+    "seconda_dose": 10,
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
