@@ -50,10 +50,10 @@
     "data":[
   {
     "area": "CAL",
-    "dosi_somministrate": 119224,
+    "dosi_somministrate": 135069,
     "dosi_consegnate": 193580,
-    "percentuale_somministrazione": 61.6,
-    "ultimo_aggiornamento": "2021-03-05T00:00:00.000Z",
+    "percentuale_somministrazione": 69.8,
+    "ultimo_aggiornamento": "2021-03-08T00:00:00.000Z",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
