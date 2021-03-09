@@ -263,6 +263,17 @@
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
     "nome_area": "Calabria"
+  },
+  {
+    "index": 20,
+    "area": "CAL",
+    "fornitore": "Pfizer/BioNTech",
+    "numero_dosi": 19890,
+    "data_consegna": "02/03/21",
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
   }
 ]
 }
