@@ -10,15 +10,11 @@
                 "type":"string"
             },
             {
-                "name":"provincia",
+                "name":"denominazione_struttura",
                 "type":"string"
             },
             {
-                "name":"comune",
-                "type":"string"
-            },
-            {
-                "name":"presidio_ospedaliero",
+                "name":"tipologia",
                 "type":"string"
             },
             {
