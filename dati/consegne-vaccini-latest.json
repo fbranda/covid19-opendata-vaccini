@@ -278,6 +278,17 @@
   {
     "index": 21,
     "area": "CAL",
+    "fornitore": "Pfizer/BioNTech",
+    "numero_dosi": 22230,
+    "data_consegna": "09/03/21",
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
+  },
+  {
+    "index": 22,
+    "area": "CAL",
     "fornitore": "AstraZeneca",
     "numero_dosi": 20800,
     "data_consegna": "10/03/21",
