@@ -46,10 +46,6 @@
                 "type":"integer"
             },
             {
-                "name":"categoria_altro",
-                "type":"integer"
-            },
-            {
                 "name":"prima_dose",
                 "type":"integer"
             },
@@ -80,7 +76,6 @@
             "categoria_over80":0,
             "categoria_forze_armate":0,
             "categoria_personale_scolastico":2,
-            "categoria_altro":162,
             "prima_dose":172,
             "seconda_dose":61,
             "ultimo_aggiornamento":"2021-03-25T00:00:00.000Z"
@@ -97,7 +92,6 @@
             "categoria_over80":0,
             "categoria_forze_armate":914,
             "categoria_personale_scolastico":417,
-            "categoria_altro":2167,
             "prima_dose":6749,
             "seconda_dose":3836,
             "ultimo_aggiornamento":"2021-03-25T00:00:00.000Z"
@@ -114,7 +108,6 @@
             "categoria_over80":0,
             "categoria_forze_armate":1997,
             "categoria_personale_scolastico":974,
-            "categoria_altro":4631,
             "prima_dose":13530,
             "seconda_dose":8413,
             "ultimo_aggiornamento":"2021-03-25T00:00:00.000Z"
@@ -131,7 +124,6 @@
             "categoria_over80":0,
             "categoria_forze_armate":3119,
             "categoria_personale_scolastico":1994,
-            "categoria_altro":7394,
             "prima_dose":18059,
             "seconda_dose":9806,
             "ultimo_aggiornamento":"2021-03-25T00:00:00.000Z"
@@ -148,7 +140,6 @@
             "categoria_over80":0,
             "categoria_forze_armate":3780,
             "categoria_personale_scolastico":2767,
-            "categoria_altro":11013,
             "prima_dose":23956,
             "seconda_dose":12380,
             "ultimo_aggiornamento":"2021-03-25T00:00:00.000Z"
@@ -165,7 +156,6 @@
             "categoria_over80":0,
             "categoria_forze_armate":615,
             "categoria_personale_scolastico":2005,
-            "categoria_altro":10819,
             "prima_dose":20824,
             "seconda_dose":12040,
             "ultimo_aggiornamento":"2021-03-25T00:00:00.000Z"
@@ -182,7 +172,6 @@
             "categoria_over80":0,
             "categoria_forze_armate":10,
             "categoria_personale_scolastico":40,
-            "categoria_altro":7694,
             "prima_dose":9682,
             "seconda_dose":3099,
             "ultimo_aggiornamento":"2021-03-25T00:00:00.000Z"
@@ -199,7 +188,6 @@
             "categoria_over80":48496,
             "categoria_forze_armate":52,
             "categoria_personale_scolastico":4,
-            "categoria_altro":5171,
             "prima_dose":48497,
             "seconda_dose":15115,
             "ultimo_aggiornamento":"2021-03-25T00:00:00.000Z"
@@ -216,7 +204,6 @@
             "categoria_over80":8681,
             "categoria_forze_armate":8,
             "categoria_personale_scolastico":1,
-            "categoria_altro":854,
             "prima_dose":9901,
             "seconda_dose":3180,
             "ultimo_aggiornamento":"2021-03-25T00:00:00.000Z"
