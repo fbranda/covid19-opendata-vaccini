@@ -54,6 +54,10 @@
                 "type":"integer"
             },
             {
+                "name":"categoria_altro",
+                "type":"integer"
+            },
+            {
                 "name":"prima_dose",
                 "type":"integer"
             },
