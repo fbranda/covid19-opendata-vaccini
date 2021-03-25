@@ -34,6 +34,10 @@
                 "type":"integer"
             },
             {
+                "name":"categoria_altro",
+                "type":"integer"
+            },
+            {
                 "name":"categoria_ospiti_rsa",
                 "type":"integer"
             },
