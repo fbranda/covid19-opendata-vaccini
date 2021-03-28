@@ -533,6 +533,16 @@
   {
     "index": 49,
     "area": "CAL",
+    "denominazione_struttura": "P.O. 'GIOVANNI XXIII'",
+    "tipologia": "Territoriale",
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
+  },
+  {
+    "index": 50,
+    "area": "CAL",
     "denominazione_struttura": "P.O. 'S. MARIA DEGLI UNGHERESI'",
     "tipologia": "Ospedaliero",
     "codice_NUTS1": "ITF",
@@ -541,7 +551,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 50,
+    "index": 51,
     "area": "CAL",
     "denominazione_struttura": "P.O. DI LOCRI",
     "tipologia": "Territoriale",
@@ -551,7 +561,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 51,
+    "index": 52,
     "area": "CAL",
     "denominazione_struttura": "P.O. JAZZOLINO",
     "tipologia": "Ospedaliero",
@@ -561,7 +571,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 52,
+    "index": 53,
     "area": "CAL",
     "denominazione_struttura": "P.O. PRAIA A MARE",
     "tipologia": "Ospedaliero",
@@ -571,7 +581,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 53,
+    "index": 54,
     "area": "CAL",
     "denominazione_struttura": "P.O. SERRA SAN BRUNO",
     "tipologia": "Ospedaliero",
@@ -581,7 +591,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 54,
+    "index": 55,
     "area": "CAL",
     "denominazione_struttura": "P.O.\"JAZZOLINO",
     "tipologia": "Territoriale",
@@ -591,7 +601,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 55,
+    "index": 56,
     "area": "CAL",
     "denominazione_struttura": "P.O.BEATO ANGELICO",
     "tipologia": "Ospedaliero",
@@ -601,7 +611,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 56,
+    "index": 57,
     "area": "CAL",
     "denominazione_struttura": "POLIABULATORIO MONTALTO UFFUGO",
     "tipologia": "Territoriale",
@@ -611,7 +621,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 57,
+    "index": 58,
     "area": "CAL",
     "denominazione_struttura": "POLIAMB. POLO SAN. S.MARCO ARG",
     "tipologia": "Territoriale",
@@ -621,7 +631,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 58,
+    "index": 59,
     "area": "CAL",
     "denominazione_struttura": "POLIAMB. SPEC. AMANTEA",
     "tipologia": "Territoriale",
@@ -631,7 +641,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 59,
+    "index": 60,
     "area": "CAL",
     "denominazione_struttura": "POLIAMB. SPEC. SCALEA",
     "tipologia": "Territoriale",
@@ -641,7 +651,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 60,
+    "index": 61,
     "area": "CAL",
     "denominazione_struttura": "POLIAMB. SPECIAL. PALMI",
     "tipologia": "Territoriale",
@@ -651,7 +661,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 61,
+    "index": 62,
     "area": "CAL",
     "denominazione_struttura": "POLIAMB. SPECIAL. TAURIANOVA",
     "tipologia": "Territoriale",
@@ -661,7 +671,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 62,
+    "index": 63,
     "area": "CAL",
     "denominazione_struttura": "POLIAMB.OSPED.DI CASTROVILLARI",
     "tipologia": "Territoriale",
@@ -671,7 +681,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 63,
+    "index": 64,
     "area": "CAL",
     "denominazione_struttura": "POLIAMB.SPEC. DI CASSANO JONIO",
     "tipologia": "Territoriale",
@@ -681,7 +691,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 64,
+    "index": 65,
     "area": "CAL",
     "denominazione_struttura": "POLIAMB.SPEC.S.DEMETRIO CORONE",
     "tipologia": "Territoriale",
@@ -691,7 +701,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 65,
+    "index": 66,
     "area": "CAL",
     "denominazione_struttura": "POLIAMBUL. POLO CASTROVILLARI",
     "tipologia": "Territoriale",
@@ -701,7 +711,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 66,
+    "index": 67,
     "area": "CAL",
     "denominazione_struttura": "POLIAMBULATORIO  DI NICOTERA",
     "tipologia": "Territoriale",
@@ -711,7 +721,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 67,
+    "index": 68,
     "area": "CAL",
     "denominazione_struttura": "POLIAMBULATORIO DI APRIGLIANO",
     "tipologia": "Territoriale",
@@ -721,7 +731,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 68,
+    "index": 69,
     "area": "CAL",
     "denominazione_struttura": "POLIAMBULATORIO DI CARIATI",
     "tipologia": "Territoriale",
@@ -731,7 +741,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 69,
+    "index": 70,
     "area": "CAL",
     "denominazione_struttura": "POLIAMBULATORIO P.O ROSSANO",
     "tipologia": "Territoriale",
@@ -741,7 +751,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 70,
+    "index": 71,
     "area": "CAL",
     "denominazione_struttura": "POLIAMBULATORIO P.O. CORIGLIAN",
     "tipologia": "Territoriale",
@@ -751,7 +761,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 71,
+    "index": 72,
     "area": "CAL",
     "denominazione_struttura": "POLIAMBULATORIO P.O. SAN GIOVANNI IN FIORE",
     "tipologia": "Territoriale",
@@ -761,7 +771,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 72,
+    "index": 73,
     "area": "CAL",
     "denominazione_struttura": "POLIAMBULATORIO QUATTROMIGLIA",
     "tipologia": "Territoriale",
@@ -771,7 +781,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 73,
+    "index": 74,
     "area": "CAL",
     "denominazione_struttura": "POLIAMBULATORIO S. S. B.",
     "tipologia": "Territoriale",
@@ -781,7 +791,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 74,
+    "index": 75,
     "area": "CAL",
     "denominazione_struttura": "POLIAMBULATORIO TREBISACCE",
     "tipologia": "Territoriale",
@@ -791,7 +801,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 75,
+    "index": 76,
     "area": "CAL",
     "denominazione_struttura": "POLIAMBULATORIO VIBO",
     "tipologia": "Territoriale",
@@ -801,7 +811,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 76,
+    "index": 77,
     "area": "CAL",
     "denominazione_struttura": "POLIAMULATORIO DI ROGLIANO",
     "tipologia": "Territoriale",
@@ -811,7 +821,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 77,
+    "index": 78,
     "area": "CAL",
     "denominazione_struttura": "POLO SANITARIO NORD",
     "tipologia": "Territoriale",
@@ -821,7 +831,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 78,
+    "index": 79,
     "area": "CAL",
     "denominazione_struttura": "POLO SANITARIO SUD",
     "tipologia": "Territoriale",
@@ -831,7 +841,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 79,
+    "index": 80,
     "area": "CAL",
     "denominazione_struttura": "PRESIDIO OSPEDALIERO LAMEZIA TERME",
     "tipologia": "Ospedaliero",
@@ -841,7 +851,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 80,
+    "index": 81,
     "area": "CAL",
     "denominazione_struttura": "PRESIDIO OSPEDALIERO RIUNITI",
     "tipologia": "Ospedaliero",
@@ -851,7 +861,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 81,
+    "index": 82,
     "area": "CAL",
     "denominazione_struttura": "PROGETTO TERZA ETA'",
     "tipologia": "Territoriale",
@@ -861,7 +871,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 82,
+    "index": 83,
     "area": "CAL",
     "denominazione_struttura": "RESIDENZA AD ALTO TRATTAMENTO",
     "tipologia": "Territoriale",
@@ -871,7 +881,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 83,
+    "index": 84,
     "area": "CAL",
     "denominazione_struttura": "RIABILITAZIONE CASTROVILLARI",
     "tipologia": "Territoriale",
@@ -881,7 +891,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 84,
+    "index": 85,
     "area": "CAL",
     "denominazione_struttura": "SADEL DI SALVATORE BAFFA SPA ( EX OLIVET",
     "tipologia": "Ospedaliero",
@@ -891,7 +901,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 85,
+    "index": 86,
     "area": "CAL",
     "denominazione_struttura": "SALUS SPA",
     "tipologia": "Territoriale",
@@ -901,7 +911,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 86,
+    "index": 87,
     "area": "CAL",
     "denominazione_struttura": "STRUTTURA TERRIT. SIDERNO",
     "tipologia": "Territoriale",
@@ -911,7 +921,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 87,
+    "index": 88,
     "area": "CAL",
     "denominazione_struttura": "TERME SIBARITE S.P.A.",
     "tipologia": "Territoriale",
