@@ -351,6 +351,28 @@
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
     "nome_area": "Calabria"
+  },
+  {
+    "index": 28,
+    "area": "CAL",
+    "fornitore": "Pfizer/BioNTech",
+    "numero_dosi": 32760,
+    "data_consegna": "29/03/21",
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
+  },
+  {
+    "index": 29,
+    "area": "CAL",
+    "fornitore": "Moderna",
+    "numero_dosi": 15200,
+    "data_consegna": "02/04/21",
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
   }
 ]
 }
