@@ -503,8 +503,8 @@
   {
     "index": 46,
     "area": "CAL",
-    "denominazione_struttura": "OSPEDALE GUDO CHIDICHIMO TREBISACCE",
-    "tipologia": "Ospedaliero",
+    "denominazione_struttura": "OSPEDALE DI SOVERIA MANNELLI",
+    "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
@@ -513,7 +513,7 @@
   {
     "index": 47,
     "area": "CAL",
-    "denominazione_struttura": "OSPEDALE PAOLA",
+    "denominazione_struttura": "OSPEDALE GUDO CHIDICHIMO TREBISACCE",
     "tipologia": "Ospedaliero",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -523,7 +523,7 @@
   {
     "index": 48,
     "area": "CAL",
-    "denominazione_struttura": "OSPEDALE PUGLIESE",
+    "denominazione_struttura": "OSPEDALE PAOLA",
     "tipologia": "Ospedaliero",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -533,7 +533,7 @@
   {
     "index": 49,
     "area": "CAL",
-    "denominazione_struttura": "P.O. 'GIOVANNI XXIII'",
+    "denominazione_struttura": "OSPEDALE PUGLIESE",
     "tipologia": "Ospedaliero",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -543,7 +543,7 @@
   {
     "index": 50,
     "area": "CAL",
-    "denominazione_struttura": "P.O. 'GIOVANNI XXIII'",
+    "denominazione_struttura": "OSPEDALE T.EVOLI  MELITO P.S.",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -553,7 +553,7 @@
   {
     "index": 51,
     "area": "CAL",
-    "denominazione_struttura": "P.O. 'S. MARIA DEGLI UNGHERESI'",
+    "denominazione_struttura": "P.O. 'GIOVANNI XXIII'",
     "tipologia": "Ospedaliero",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -563,7 +563,7 @@
   {
     "index": 52,
     "area": "CAL",
-    "denominazione_struttura": "P.O. DI LOCRI",
+    "denominazione_struttura": "P.O. 'GIOVANNI XXIII'",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -573,7 +573,7 @@
   {
     "index": 53,
     "area": "CAL",
-    "denominazione_struttura": "P.O. JAZZOLINO",
+    "denominazione_struttura": "P.O. 'S. MARIA DEGLI UNGHERESI'",
     "tipologia": "Ospedaliero",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -583,8 +583,8 @@
   {
     "index": 54,
     "area": "CAL",
-    "denominazione_struttura": "P.O. PRAIA A MARE",
-    "tipologia": "Ospedaliero",
+    "denominazione_struttura": "P.O. DI LOCRI",
+    "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
@@ -593,7 +593,7 @@
   {
     "index": 55,
     "area": "CAL",
-    "denominazione_struttura": "P.O. SERRA SAN BRUNO",
+    "denominazione_struttura": "P.O. JAZZOLINO",
     "tipologia": "Ospedaliero",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -603,8 +603,8 @@
   {
     "index": 56,
     "area": "CAL",
-    "denominazione_struttura": "P.O.\"JAZZOLINO",
-    "tipologia": "Territoriale",
+    "denominazione_struttura": "P.O. PRAIA A MARE",
+    "tipologia": "Ospedaliero",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
@@ -613,7 +613,7 @@
   {
     "index": 57,
     "area": "CAL",
-    "denominazione_struttura": "P.O.BEATO ANGELICO",
+    "denominazione_struttura": "P.O. SERRA SAN BRUNO",
     "tipologia": "Ospedaliero",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -623,7 +623,7 @@
   {
     "index": 58,
     "area": "CAL",
-    "denominazione_struttura": "POLIABULATORIO MONTALTO UFFUGO",
+    "denominazione_struttura": "P.O. TROPEA",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -633,7 +633,7 @@
   {
     "index": 59,
     "area": "CAL",
-    "denominazione_struttura": "POLIAMB. POLO SAN. S.MARCO ARG",
+    "denominazione_struttura": "P.O.\"JAZZOLINO",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -643,8 +643,8 @@
   {
     "index": 60,
     "area": "CAL",
-    "denominazione_struttura": "POLIAMB. SPEC. AMANTEA",
-    "tipologia": "Territoriale",
+    "denominazione_struttura": "P.O.BEATO ANGELICO",
+    "tipologia": "Ospedaliero",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
@@ -653,7 +653,7 @@
   {
     "index": 61,
     "area": "CAL",
-    "denominazione_struttura": "POLIAMB. SPEC. SCALEA",
+    "denominazione_struttura": "POLIABULATORIO MONTALTO UFFUGO",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -663,7 +663,7 @@
   {
     "index": 62,
     "area": "CAL",
-    "denominazione_struttura": "POLIAMB. SPECIAL. PALMI",
+    "denominazione_struttura": "POLIAMB. POLO SAN. S.MARCO ARG",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -673,7 +673,7 @@
   {
     "index": 63,
     "area": "CAL",
-    "denominazione_struttura": "POLIAMB. SPECIAL. TAURIANOVA",
+    "denominazione_struttura": "POLIAMB. SPEC. AMANTEA",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -683,7 +683,7 @@
   {
     "index": 64,
     "area": "CAL",
-    "denominazione_struttura": "POLIAMB.OSPED.DI CASTROVILLARI",
+    "denominazione_struttura": "POLIAMB. SPEC. ROCCA IMPERIALE",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -693,7 +693,7 @@
   {
     "index": 65,
     "area": "CAL",
-    "denominazione_struttura": "POLIAMB.SPEC. DI CASSANO JONIO",
+    "denominazione_struttura": "POLIAMB. SPEC. SCALEA",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -703,7 +703,7 @@
   {
     "index": 66,
     "area": "CAL",
-    "denominazione_struttura": "POLIAMB.SPEC.S.DEMETRIO CORONE",
+    "denominazione_struttura": "POLIAMB. SPECIAL. PALMI",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -713,7 +713,7 @@
   {
     "index": 67,
     "area": "CAL",
-    "denominazione_struttura": "POLIAMBUL. POLO CASTROVILLARI",
+    "denominazione_struttura": "POLIAMB. SPECIAL. TAURIANOVA",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -723,7 +723,7 @@
   {
     "index": 68,
     "area": "CAL",
-    "denominazione_struttura": "POLIAMBULATORIO  DI NICOTERA",
+    "denominazione_struttura": "POLIAMB.OSPED.DI CASTROVILLARI",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -733,7 +733,7 @@
   {
     "index": 69,
     "area": "CAL",
-    "denominazione_struttura": "POLIAMBULATORIO DI APRIGLIANO",
+    "denominazione_struttura": "POLIAMB.SPEC. DI CASSANO JONIO",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -743,7 +743,7 @@
   {
     "index": 70,
     "area": "CAL",
-    "denominazione_struttura": "POLIAMBULATORIO DI CARIATI",
+    "denominazione_struttura": "POLIAMB.SPEC.S.DEMETRIO CORONE",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -753,7 +753,7 @@
   {
     "index": 71,
     "area": "CAL",
-    "denominazione_struttura": "POLIAMBULATORIO P.O ROSSANO",
+    "denominazione_struttura": "POLIAMBUL. POLO CASTROVILLARI",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -763,7 +763,7 @@
   {
     "index": 72,
     "area": "CAL",
-    "denominazione_struttura": "POLIAMBULATORIO P.O. CORIGLIAN",
+    "denominazione_struttura": "POLIAMBULATORIO  DI NICOTERA",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -773,7 +773,7 @@
   {
     "index": 73,
     "area": "CAL",
-    "denominazione_struttura": "POLIAMBULATORIO P.O. SAN GIOVANNI IN FIORE",
+    "denominazione_struttura": "POLIAMBULATORIO DI APRIGLIANO",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -783,7 +783,7 @@
   {
     "index": 74,
     "area": "CAL",
-    "denominazione_struttura": "POLIAMBULATORIO QUATTROMIGLIA",
+    "denominazione_struttura": "POLIAMBULATORIO DI CARIATI",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -793,7 +793,7 @@
   {
     "index": 75,
     "area": "CAL",
-    "denominazione_struttura": "POLIAMBULATORIO S. S. B.",
+    "denominazione_struttura": "POLIAMBULATORIO P.O ROSSANO",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -803,7 +803,7 @@
   {
     "index": 76,
     "area": "CAL",
-    "denominazione_struttura": "POLIAMBULATORIO TREBISACCE",
+    "denominazione_struttura": "POLIAMBULATORIO P.O. CORIGLIAN",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -813,7 +813,7 @@
   {
     "index": 77,
     "area": "CAL",
-    "denominazione_struttura": "POLIAMBULATORIO VIBO",
+    "denominazione_struttura": "POLIAMBULATORIO P.O. SAN GIOVANNI IN FIORE",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -823,7 +823,7 @@
   {
     "index": 78,
     "area": "CAL",
-    "denominazione_struttura": "POLIAMULATORIO DI ROGLIANO",
+    "denominazione_struttura": "POLIAMBULATORIO QUATTROMIGLIA",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -833,7 +833,7 @@
   {
     "index": 79,
     "area": "CAL",
-    "denominazione_struttura": "POLO SANITARIO NORD",
+    "denominazione_struttura": "POLIAMBULATORIO S. S. B.",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -843,7 +843,7 @@
   {
     "index": 80,
     "area": "CAL",
-    "denominazione_struttura": "POLO SANITARIO SUD",
+    "denominazione_struttura": "POLIAMBULATORIO TREBISACCE",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -853,8 +853,8 @@
   {
     "index": 81,
     "area": "CAL",
-    "denominazione_struttura": "PRESIDIO OSPEDALIERO LAMEZIA TERME",
-    "tipologia": "Ospedaliero",
+    "denominazione_struttura": "POLIAMBULATORIO VIBO",
+    "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
@@ -863,8 +863,8 @@
   {
     "index": 82,
     "area": "CAL",
-    "denominazione_struttura": "PRESIDIO OSPEDALIERO RIUNITI",
-    "tipologia": "Ospedaliero",
+    "denominazione_struttura": "POLIAMULATORIO DI ROGLIANO",
+    "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
@@ -873,7 +873,7 @@
   {
     "index": 83,
     "area": "CAL",
-    "denominazione_struttura": "PROGETTO TERZA ETA'",
+    "denominazione_struttura": "POLO SANITARIO NORD",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -883,7 +883,7 @@
   {
     "index": 84,
     "area": "CAL",
-    "denominazione_struttura": "RESIDENZA AD ALTO TRATTAMENTO",
+    "denominazione_struttura": "POLO SANITARIO SUD",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
     "codice_NUTS2": "ITF6",
@@ -893,6 +893,56 @@
   {
     "index": 85,
     "area": "CAL",
+    "denominazione_struttura": "PRESIDIO OSPEDALIERO LAMEZIA TERME",
+    "tipologia": "Ospedaliero",
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
+  },
+  {
+    "index": 86,
+    "area": "CAL",
+    "denominazione_struttura": "PRESIDIO OSPEDALIERO PAOLA",
+    "tipologia": "Territoriale",
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
+  },
+  {
+    "index": 87,
+    "area": "CAL",
+    "denominazione_struttura": "PRESIDIO OSPEDALIERO RIUNITI",
+    "tipologia": "Ospedaliero",
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
+  },
+  {
+    "index": 88,
+    "area": "CAL",
+    "denominazione_struttura": "PROGETTO TERZA ETA'",
+    "tipologia": "Territoriale",
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
+  },
+  {
+    "index": 89,
+    "area": "CAL",
+    "denominazione_struttura": "RESIDENZA AD ALTO TRATTAMENTO",
+    "tipologia": "Territoriale",
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
+  },
+  {
+    "index": 90,
+    "area": "CAL",
     "denominazione_struttura": "RIABILITAZIONE CASTROVILLARI",
     "tipologia": "Territoriale",
     "codice_NUTS1": "ITF",
@@ -901,7 +951,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 86,
+    "index": 91,
     "area": "CAL",
     "denominazione_struttura": "SADEL DI SALVATORE BAFFA SPA ( EX OLIVET",
     "tipologia": "Ospedaliero",
@@ -911,7 +961,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 87,
+    "index": 92,
     "area": "CAL",
     "denominazione_struttura": "SALUS SPA",
     "tipologia": "Territoriale",
@@ -921,7 +971,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 88,
+    "index": 93,
     "area": "CAL",
     "denominazione_struttura": "STRUTTURA TERRIT. SIDERNO",
     "tipologia": "Territoriale",
@@ -931,7 +981,7 @@
     "nome_area": "Calabria"
   },
   {
-    "index": 89,
+    "index": 94,
     "area": "CAL",
     "denominazione_struttura": "TERME SIBARITE S.P.A.",
     "tipologia": "Territoriale",
