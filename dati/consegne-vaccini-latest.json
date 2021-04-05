@@ -373,6 +373,17 @@
     "codice_NUTS2": "ITF6",
     "codice_regione_ISTAT": 18,
     "nome_area": "Calabria"
+  },
+  {
+    "index": 30,
+    "area": "CAL",
+    "fornitore": "AstraZeneca",
+    "numero_dosi": 40500,
+    "data_consegna": "03/04/21",
+    "codice_NUTS1": "ITF",
+    "codice_NUTS2": "ITF6",
+    "codice_regione_ISTAT": 18,
+    "nome_area": "Calabria"
   }
 ]
 }
